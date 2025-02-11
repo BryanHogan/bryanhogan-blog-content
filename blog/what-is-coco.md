@@ -8,6 +8,8 @@ tags: ["learning", "productivity", "design", "development", "university"]
 ---
 Code & Context shows how studying should be done. A B.Sc. program combining Computer Science, Design and Entrepreneurship with a modern approach to learning.
 
+Test
+
 ## What is Code & Context?
 
 Code & Context is a Bachelor of Science program at TH Köln (Cologne University of Applied Sciences) which combines computer science, design and business/entrepreneurship. It is fundamentally different from other fields of study and for me the best study I have ever heard of.
