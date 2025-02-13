@@ -61,13 +61,32 @@ Add the community plugin `Git`. Since we have already created and linked the con
 
 ### Step 4: Submodule magic
 
-Now we will be adding the 
+Now we will be adding the smaller repository that only has two folders to the larger repository that has our front-end stuff as a submodule.
+
+When using Astro we want our markdown content within a folder of the content folder. Use `git submodule add small-repository-link src/content` to add the two folders.
+
+Add, commit and push that this new submodule has been added. 
 
 ![Screenshot of Visual Studio Code interface when it has a submodule](../blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png)
 
+### Step 5: Adjusting building steps
 
+Now the step I struggled the most with. This might also depend on how you host your static website, I have tried DigitalOcean so far and will add how I did this with Cloudflare in the future.
+
+Since submodule are not automatically included when we do a pull of this repository we have to specifically state that we do want to include the submodule.
+
+#### DigitalOcean
+
+A simple way to do this would be to just add `--recursive` for the pull command, but I couldn't find a way to do this within DigitalOcean so I had to get a bit more creative.
+
+In DigitalOcean:
+
+1. Add this to the build command: `git submodule update --init --recursive && npm install && npm run build`
+2. Use https instead of ssh for the submodule, to do this adjust the `.gitmodules` file which was created when we added the submodule. Use this command within the main repository to change the submodule to https: `git config --file .gitmodules submodule.src/content.url https://github.com/your-username/your-submodule-repo.git` and then `git submodule sync`.
 
 ---
+
+That's all! 🎉
 
 I want to hear your feedback!
 Was something confusing? Did you get stuck? Did you find this post amazingly helpful? Was it all very mid? Let me know per ==e-mail== or at any of my social media channels like ==Instagram== or ==BlueSky==!
