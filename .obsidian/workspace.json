@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8680f84139cca0fb",
+        "id": "9022baf44d75eefc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e06631ca8cce9f4",
+            "id": "56fc4869b60f11be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drafts/obsidian-astro-submodule.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "obsidian-astro-submodule"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "05de734adde076f8",
@@ -172,13 +176,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e06631ca8cce9f4",
+  "active": "3b135e02d2ddfc23",
   "lastOpenFiles": [
-    "blog/what-is-coco.md",
-    "drafts/template-image.md",
+    "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png",
+    "drafts/obsidian-astro-submodule.md",
+    "drafts/template-image-line.md",
+    "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules-min.png",
+    "blog/how-to-sync-obsidian.md",
+    "blog/obsidian-gaming-backlog.md",
     "drafts/template-emoji.md",
-    "drafts",
+    "blog/what-is-coco.md",
+    "blog/sustainable-work.md",
+    "blog/south-korea-travel-guide.md",
+    "blog/show-your-work.md",
+    "blog/obsidian-zettelkasten.md",
+    "blog/obsidian-android-vault-shortcut.md",
+    "blog/notion-obsidian-comparison.md",
+    "blog/korean-age.md",
     "blog/introduction.md",
-    "blog/astro-obsidian.md"
+    "blog/hanyang-erica-exchange.md",
+    "blog/coco-final-dev-diary.md",
+    "blog/astro-obsidian.md",
+    "drafts/template-image.md",
+    "drafts"
   ]
 }
