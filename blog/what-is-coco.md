@@ -6,9 +6,8 @@ pubDate: 2023-11-07
 lastUpdate: 2024-04-23T21:45:13Z
 tags: ["learning", "productivity", "design", "development", "university"]
 ---
-Code & Context shows how studying should be done. A B.Sc. program combining Computer Science, Design and Entrepreneurship with a modern approach to learning.
 
-Test
+Code & Context shows how studying should be done. A B.Sc. program combining Computer Science, Design and Entrepreneurship with a modern approach to learning.
 
 ## What is Code & Context?
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/obsidian-astro-submodule.md",
+                "file": "blog/what-is-coco.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "obsidian-astro-submodule"
+              "title": "what-is-coco"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b135e02d2ddfc23",
+  "active": "56fc4869b60f11be",
   "lastOpenFiles": [
-    "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png",
     "drafts/obsidian-astro-submodule.md",
+    "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png",
     "drafts/template-image-line.md",
     "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules-min.png",
     "blog/how-to-sync-obsidian.md",
