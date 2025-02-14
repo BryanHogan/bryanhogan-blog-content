@@ -9,6 +9,9 @@ tags:
   - obsidian
 ---
 
+⚠️ I'm not using this approach anymore. I found it much better to use GitHub submodules to achieve this. I wrote about how to do that [here](/blog/obsidian-astro-submodule). ⚠️
+
+
 How to use Obsidian for your Astro website's content writing workflow.  
 Integrating Astro posts to be edited in Obsidian is quite easy. For this to work we just need to link files with symbolic links(`mklink`). This post is focussed on Windows, but this is also possible on Mac by slightly adjusting the command.
 
