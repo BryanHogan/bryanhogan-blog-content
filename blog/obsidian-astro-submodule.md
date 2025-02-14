@@ -45,7 +45,7 @@ I have two folders:
 
 Now we want to create a repository for this content.
 
-This means we will have one repository where our all files for the Astro project live, such as all the components, pages, layouts, styles files and everything else you need for your website, and another repository with just the two folders we created earlier.
+This means we will have one main repository where our all files for the Astro project live, such as all the components, pages, layouts, styles files and everything else you need for your website, and another repository with just the two folders we created earlier.
 
 <details><summary>How to use Git to do that</summary>
 
@@ -63,7 +63,7 @@ Add the community plugin `Git`. Since we have already created and linked the con
 
 Now we will be adding the smaller repository that only has two folders to the larger repository that has our front-end stuff as a submodule.
 
-When using Astro we want our markdown content within a folder of the content folder. Use `git submodule add small-repository-link src/content` to add the two folders.
+When using Astro we want our markdown content within a folder of the content folder. Use `git submodule add small-repository-link src/content` to add the two folders. Replace the link with your repository that has the markdown files.
 
 Add, commit and push that this new submodule has been added. 
 
@@ -82,11 +82,11 @@ A simple way to do this would be to just add `--recursive` for the pull command,
 In DigitalOcean:
 
 1. Add this to the build command: `git submodule update --init --recursive && npm install && npm run build`
-2. Use https instead of ssh for the submodule, to do this adjust the `.gitmodules` file which was created when we added the submodule. Use this command within the main repository to change the submodule to https: `git config --file .gitmodules submodule.src/content.url https://github.com/your-username/your-submodule-repo.git` and then `git submodule sync`.
+2. Use https instead of ssh for the submodule. DigitalOcean didn't work with ssh, but https works. To do this adjust the `.gitmodules` file which was created when we added the submodule. Use this command within the main repository to change the submodule to https: `git config --file .gitmodules submodule.src/content.url https://github.com/your-username/your-submodule-repo.git` and then `git submodule sync`.
 
 ---
 
 That's all! 🎉
 
 I want to hear your feedback!
-Was something confusing? Did you get stuck? Did you find this post amazingly helpful? Was it all very mid? Let me know per ==e-mail== or at any of my social media channels like ==Instagram== or ==BlueSky==!
+Was something confusing? Did you get stuck? Did you find this post amazingly helpful? Was it all very mid? Let me know per [e-mail](mailto:bryan@bryanhogan.com) or at any of my social media channels like [Instagram](https://www.instagram.com/bryanhoganme) or [BlueSky](https://bsky.app/profile/bryanhogan.com)!

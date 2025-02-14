@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/obsidian-astro-submodule.md",
+                "file": "blog/obsidian-astro-submodule.md",
                 "mode": "source",
                 "source": true
               },
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "blog/obsidian-astro-submodule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of obsidian-astro-submodule"
             }
           },
           {
@@ -176,9 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56fc4869b60f11be",
+  "active": "c770b02bcf5a9d7b",
   "lastOpenFiles": [
-    "drafts/obsidian-astro-submodule.md",
+    "blog/obsidian-astro-submodule.md",
     "blog/what-is-coco.md",
     "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png",
     "drafts/template-image-line.md",
