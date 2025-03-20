@@ -6,6 +6,8 @@ pubDate: 2024-09-29T07:48:01Z
 lastUpdate: 2024-09-29T07:48:01Z
 tags:
   - obsidian
+blueskyRef: blueskyreflink
+threadsRef: threadsreflink
 ---
 
 Obsidian is a versatile tool and it's how I keep track of all the games I want to play, am currently playing and have played.  

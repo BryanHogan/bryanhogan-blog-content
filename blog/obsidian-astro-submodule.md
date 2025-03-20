@@ -84,9 +84,4 @@ In DigitalOcean:
 1. Add this to the build command: `git submodule update --init --recursive && npm install && npm run build`
 2. Use https instead of ssh for the submodule. DigitalOcean didn't work with ssh, but https works. To do this adjust the `.gitmodules` file which was created when we added the submodule. Use this command within the main repository to change the submodule to https: `git config --file .gitmodules submodule.src/content.url https://github.com/your-username/your-submodule-repo.git` and then `git submodule sync`.
 
----
-
 That's all! 🎉
-
-I want to hear your feedback!
-Was something confusing? Did you get stuck? Did you find this post amazingly helpful? Was it all very mid? Let me know per [e-mail](mailto:bryan@bryanhogan.com) or at any of my social media channels like [Instagram](https://www.instagram.com/bryanhoganme) or [BlueSky](https://bsky.app/profile/bryanhogan.com)!
