@@ -8,6 +8,9 @@ tags:
   - astro
   - obsidian
   - blog
+mastodonRef: https://mastodon.social/@BryanHogan/114196714161676421
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3lktkx7ukp22h
+threadsRef: https://www.threads.net/@bryanhoganme/post/DHb2DIPs7sC
 ---
 
 My blog uses markdown files. I love using Obsidian to write markdown. So how do I (and you) easily write markdown based blog posts for frameworks such as Astro using Obsidian?
