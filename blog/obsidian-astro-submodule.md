@@ -1,16 +1,19 @@
 ---
-title: Title
-description: Description.
+title: How To Use Obsidian To Write Astro Markdown Content
+description: How to use Obsidian to write Astro markdown content in a simple and intuitive way using GitHub submodules.
 emoji: 🖋️
-pubDate: 2025-02-13T21:04:11Z
-lastUpdate: 2025-02-13T21:04:11Z
+pubDate: 2025-02-14T17:28:59Z
+lastUpdate: 2025-02-14T17:28:59Z
 tags:
   - astro
   - obsidian
   - blog
+mastodonRef: https://mastodon.social/@BryanHogan/114196714161676421
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3lktkx7ukp22h
+threadsRef: https://www.threads.net/@bryanhoganme/post/DHb2DIPs7sC
 ---
 
-My blog uses markdown files. I love using Obsidian to write markdown. So how do I (and you) easily write markdown based blog posts for framework such as Astro using Obsidian?
+My blog uses markdown files. I love using Obsidian to write markdown. So how do I (and you) easily write markdown based blog posts for frameworks such as Astro using Obsidian?
 
 Since my website uses Astro I will mention Astro, but this approach works just as well for other static site generators that use markdown like Hugo, Jekyll, Eleventy, Next.js and more.
 
@@ -19,7 +22,7 @@ Submodules might sound complicated at first, but it really isn't. It just means 
 
 I had previously tried using Symlinks, but that approach does not feel reliable and is gimmicky.
 
-## How to use Obsidian to write Astro markdown content
+## All steps on getting started with using Obsidian to write Astro markdown content
 
 A quick overview of all the steps:
 
@@ -45,7 +48,7 @@ I have two folders:
 
 Now we want to create a repository for this content.
 
-This means we will have one main repository where our all files for the Astro project live, such as all the components, pages, layouts, styles files and everything else you need for your website, and another repository with just the two folders we created earlier.
+This means we will have one main repository where all our files for the Astro project live, such as all the components, pages, layouts, styles files and everything else you need for your website, and another repository with just the two folders we created earlier.
 
 <details><summary>How to use Git to do that</summary>
 
@@ -55,7 +58,7 @@ Make sure you have Git installed on your device. You can use the visual interfac
 
 ### Step 3: Obsidian and `Git` plugin
 
-Within Obsidian open the file as a new vault that contains the two folders.
+Within Obsidian, open the file as a new vault that contains the two folders.
 
 Add the community plugin `Git`. Since we have already created and linked the content to a repository the plugin will already know where to pull and push the content to.
 
@@ -71,7 +74,7 @@ Add, commit and push that this new submodule has been added.
 
 ### Step 5: Adjusting building steps
 
-Now the step I struggled the most with. This might also depend on how you host your static website, I have tried DigitalOcean so far and will add how I did this with Cloudflare in the future.
+Now the step I struggled the most with. This might also depend on how you host your static website. I have tried DigitalOcean so far and will add how I did this with Cloudflare in the future.
 
 Since submodule are not automatically included when we do a pull of this repository we have to specifically state that we do want to include the submodule.
 
@@ -84,9 +87,4 @@ In DigitalOcean:
 1. Add this to the build command: `git submodule update --init --recursive && npm install && npm run build`
 2. Use https instead of ssh for the submodule. DigitalOcean didn't work with ssh, but https works. To do this adjust the `.gitmodules` file which was created when we added the submodule. Use this command within the main repository to change the submodule to https: `git config --file .gitmodules submodule.src/content.url https://github.com/your-username/your-submodule-repo.git` and then `git submodule sync`.
 
----
-
 That's all! 🎉
-
-I want to hear your feedback!
-Was something confusing? Did you get stuck? Did you find this post amazingly helpful? Was it all very mid? Let me know per [e-mail](mailto:bryan@bryanhogan.com) or at any of my social media channels like [Instagram](https://www.instagram.com/bryanhoganme) or [BlueSky](https://bsky.app/profile/bryanhogan.com)!

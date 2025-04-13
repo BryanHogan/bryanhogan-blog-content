@@ -3,9 +3,11 @@ title: Using Obsidian as a Gaming Backlog Library
 description: How to use Obsidian as a gaming backlog library. Get a long-lasting overview of games you want to and have played. 
 coverImage: ../blog-assets/covers/Obsidian-Collection-Cover.svg
 pubDate: 2024-09-29T07:48:01Z
-lastUpdate: 2024-09-29T07:48:01Z
 tags:
   - obsidian
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3ll246n7uc226
+threadsRef: https://www.threads.net/@bryanhoganme/post/DHiikHjMM37
+mastodonRef: https://mastodon.social/@BryanHogan/114211440473909658
 ---
 
 Obsidian is a versatile tool and it's how I keep track of all the games I want to play, am currently playing and have played.  
@@ -148,6 +150,24 @@ WHERE status = "Playing"
 ChatGPT or any other LLM tool can be very helpful in writing these filters if they are confusing to you :)
 
 And that's it! 🎉 Enjoy your game library in Obsidian!
+
+### Prettier Cards
+
+<small>Update March 2025</small>
+
+I have since updated the CSS snippet I use to display these cards. It is based on a snippet called "Deus" but adjusted.
+
+You can download the new snippet here: <a href="/documents/Obsidian-Cards-Snippet-v2.css" download="Obsidian-Cards-Snippet-v2">Cards Snippet Version 2 Download</a>
+
+![Example of cards in card grid that grow on hover.](../blog-assets/images/Obsidian-Gaming-Backlog-Card-Grow-On-Hover.gif)
+
+To achieve the styling as shown in the clip, add the following `cssclasses` to your note:
+- `cards` to use card styling. (from Cards v1 / v2 snippet)
+- `wide-dataview` to make the table larger. (from Wide Views snippet)
+- `card-height-120` to limit the height of the image within the cards. (from Cards **v2** snippet)
+
+By doing this your cards will look nicer and slightly grow in size when you hover them. The mobile version also looks nice.
+
 
 ## More? Book backlog?
 As you might have already noticed the system is very flexible and you can include anything you want, it's not limited to games. I am also using this system for an overview of all the books I have and want to read.

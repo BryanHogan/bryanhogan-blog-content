@@ -274,7 +274,7 @@ But from my experience the places with the best nightlife definitely were:
 
 ### Hongdae / 홍대
 Hongdae is very popular and has many great bars. You will find many international bars and clubs in Hongdae as well as Korean ones. Majority of people in Hongdae are students in their twenties up to people in their middle thirties usually.
-But be aware that some clubs are racist or agist. Don't fall for any scams here, clubs usually are free. Never pay more than 10k won as an entrance fee (with the exception of very special events).
+But be aware that some clubs only want Koreans inside or have a age limit. Don't fall for any scams here, clubs usually are free. Never pay more than 10k won as an entrance fee (with the exception of very special events).
 Hongdae is also especially well connected by bus and train, there are even many night buses that can take you back home late at night.
 
 One of my favourite bars in Hongdae is [La Rougue / La Luz / 라루즈](https://map.naver.com/p/entry/place/1261722770), here, after buying one drink, you can play an unlimited amount of games.
