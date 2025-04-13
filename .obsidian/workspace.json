@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/obsidian-astro-submodule.md",
+                "file": "blog/hanyang-erica-exchange.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian-astro-submodule"
+              "title": "hanyang-erica-exchange"
             }
           }
         ]
@@ -177,16 +177,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c770b02bcf5a9d7b",
+  "active": "56fc4869b60f11be",
   "lastOpenFiles": [
+    "blog/how-to-sync-obsidian.md",
+    "drafts/template-emoji.md",
+    "drafts/template-image.md",
     "blog/obsidian-astro-submodule.md",
     "blog/what-is-coco.md",
     "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules.png",
     "drafts/template-image-line.md",
     "blog-assets/images/Obsidian-Astro-Visual-Studio-Code-With-Submodules-min.png",
-    "blog/how-to-sync-obsidian.md",
     "blog/obsidian-gaming-backlog.md",
-    "drafts/template-emoji.md",
     "blog/sustainable-work.md",
     "blog/south-korea-travel-guide.md",
     "blog/show-your-work.md",
@@ -198,7 +199,6 @@
     "blog/hanyang-erica-exchange.md",
     "blog/coco-final-dev-diary.md",
     "blog/astro-obsidian.md",
-    "drafts/template-image.md",
     "drafts"
   ]
 }

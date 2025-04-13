@@ -56,7 +56,7 @@ I had a shared room in the dormitory on the 3rd floor, I think there were up to 
 
 It is always foreign students who get put together into a room, so you won't share a room with a Korean student. Other friends of mine also had roommates from all over the world, Netherlands, Spain, Mexico, Japan, Denmark, UK, China and more. Although sometimes roommates were not able to speak the same language, like Chinese students who only knew Korean and Chinese together with German students who only knew English and German, this made for some fun stories.
 
-The dormitory is also strictly gender separated and has some other weird rules, at least from a German/Western perspective.
+The dormitory is also strictly gender separated and has some other rules that were unusual to me from a general German/Western perspective.
 
 ![Hanyang erica dormitory rules](../blog-assets/images/Hanyang-Exchange-Dormitory-Rules.jpg)
 
