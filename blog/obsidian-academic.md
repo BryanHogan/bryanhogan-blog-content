@@ -44,7 +44,7 @@ Since the content itself was just markdown I could also use [Zettlr](https://www
 
 Converting via something like Pandoc wasn't perfect though, the end result always required further adjustments. So I couldn't find a way to convert the markdown file to an adequate result.
 
-For me the separation of content and appearance was important, I see it as a fundamentally better approach on writing long-form content, especially in the case of research papers.
+I like the approach of markdown, the separation between styling and content. I see it as a fundamentally better approach on writing long-form content, especially in the case of research papers. So I knew I didn't want to use a Word-like program.
 
 ## Just use LaTeX?
 
@@ -58,7 +58,7 @@ Knowing that I had to make some compromises I went with using Visual Studio Code
 
 After getting familiar with the LaTeX syntax I realised that writing LaTeX itself was not that hard. The syntax is not perfect though. Some projects that improve upon this such as Typst, Quarkdown, [AsciiDoc](https://asciidoc.org/) or [R Markdown](https://rmarkdown.rstudio.com/) are nice, but they also all seemed to have some problem that didn't make them a viable alternative. Hopefully in the future there will be some strong contenders.
 
-So LaTeX it was. Visual Studio Code is not the perfect interface for writing long-form text, but it's also not bad. I made my `main.text`file that included all relevant imports, one import for each chapter. Next time I will be writing an academic paper I will be starting with this, and split my project into multiple `.tex` files that then get imported into the main file.  
+So LaTeX it was. Visual Studio Code is not the perfect interface for writing long-form text, but it's also not bad. I made my `main.text` file that included all relevant imports, one import for each chapter. Next time I will be writing an academic paper I will be starting with this, and split my project into multiple `.tex` files that then get imported into the main file.  
 
 I first started without many "packages", additional libraries that add further functionality, to understand the basic syntax, and then added them based on an example provided by my university. ChatGPT, or any other LLM, can be very helpful in understanding LaTeX and giving you feedback, it was especially helpful for me in creating figures.
 
