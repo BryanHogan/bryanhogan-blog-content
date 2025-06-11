@@ -3,7 +3,7 @@ title: How To Use Obsidian To Write Astro Markdown Content
 description: How to use Obsidian to write Astro markdown content in a simple and intuitive way using GitHub submodules.
 emoji: 🖋️
 pubDate: 2025-02-14T17:28:59Z
-lastUpdate: 2025-02-14T17:28:59Z
+lastUpdate: 2025-06-11T02:10:40Z
 tags:
   - astro
   - obsidian
@@ -74,9 +74,15 @@ Add, commit and push that this new submodule has been added.
 
 ### Step 5: Adjusting building steps
 
-Now the step I struggled the most with. This might also depend on how you host your static website. I have tried DigitalOcean so far and will add how I did this with Cloudflare in the future.
+Now the step I struggled the most with, at least when using DigitalOcean. Using Cloudflare it just worked, so it depends on how you host your static website.
 
-Since submodule are not automatically included when we do a pull of this repository we have to specifically state that we do want to include the submodule.
+Since submodule might not automatically be included when we do a pull of this repository we have to specifically state that we do want to include the submodule.
+
+Also, when you clone your repository again in the feature, e.g. you get a new laptop or pc, after doing the usual `git clone ssh-link` do `git submodule update --init --recursive`.
+
+### Cloudflare
+
+It just works!
 
 #### DigitalOcean
 
