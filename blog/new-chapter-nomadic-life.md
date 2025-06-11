@@ -9,7 +9,7 @@ tags:
 ---
 I've started a new chapter of my life. With around 4000€ in my bank account I got a one-way ticket to South Korea.
 
-Although I have greatly enjoyed my time in Korea, I won't be in Korea for too long, I want to see some other places before I start living in Korea for a longer period. Also, getting a visa for Korea is hard, and I didn't want to use the Korean Working Holiday visa yet.
+Although I have greatly enjoyed my time in Korea I won't be in Korea for too long, I want to see some other places before I start living in Korea for a longer period. Also, getting a visa for Korea is hard, and I didn't want to use the Korean Working Holiday visa yet.
 
 My plan is to see more of the world and work on my digital business. *(Note: If you are interested in an user-friendly app that combines habit tracking, health logging and journaling in a customizable way join the waitlist on [dailyselftrack.com](https://dailyselftrack.com/).)*
 
@@ -29,7 +29,7 @@ It's not the easiest, it's not simple, but it is hugely rewarding. Diving deeper
 And I'm not the only one that thinks going abroad for a bit is/was the best decision of their life. So here are some YouTubers talking about that as well:
 - [Mike Okay](https://youtu.be/cZX0VY11JvI)
 - (Video is in German) [Niklas Steenfatt](https://youtu.be/fKcYTAB3tp8?t=853) 
-- [Nate O'Brien](https://youtu.be/bwojg1i9dls?t=536) - Didn't go abroad, didn't stay for a long time, but talks about that even camping somewhere else for a bit is a great way to get away from the usual environment that always surrounds you.
+- [Nate O'Brien](https://youtu.be/bwojg1i9dls?t=536) - Didn't go abroad, didn't stay for a long time, but talks about that even camping somewhere else for a bit is a great way to get away from the usual environment that always sorrounds you.
 - [Or you could just find it enjoyable like Torbjørn C. Pedersen](https://www.onceuponasaga.dk/why-not)
 
 ## Return when?
@@ -40,4 +40,4 @@ It might make sense to return for entrepreneurial related matters or for visa ap
 
 I also run into the risk of running out of money. I might not be able to finance my journey. The amount of 4000€ might seem rich for some, for others it's a miniscule amount. But with it I can finance myself for a few months, there are many ways to save money so I can extend my journey, but at some point I will have to earn money.
 
-Another reason might be my health, I'm currently limited in what I can eat and drink, but for now it is manageable.
+Another reasons might be my health, I'm currently limited in what I can eat and drink, but for now it is manageable.
