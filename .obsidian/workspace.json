@@ -11,14 +11,14 @@
             "id": "56fc4869b60f11be",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "blog/hanyang-erica-exchange.md",
-                "bFile": "blog/hanyang-erica-exchange.md",
-                "aRef": ""
+                "file": "blog/new-chapter-nomadic-life.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: hanyang-erica-exchange"
+              "icon": "lucide-file",
+              "title": "new-chapter-nomadic-life"
             }
           }
         ]
@@ -179,10 +179,12 @@
   },
   "active": "56fc4869b60f11be",
   "lastOpenFiles": [
+    "blog/obsidian-academic.md",
+    "blog/new-chapter-nomadic-life.md",
+    "drafts/template-emoji.md",
     "drafts/obsidian-academic.md",
     "blog/hanyang-erica-exchange.md",
     "blog/how-to-sync-obsidian.md",
-    "drafts/template-emoji.md",
     "drafts/template-image.md",
     "blog/obsidian-astro-submodule.md",
     "blog/what-is-coco.md",
