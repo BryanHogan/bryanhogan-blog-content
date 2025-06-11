@@ -32,7 +32,7 @@ Now I had everything I need, I thought, I can create headers and lists via the n
 </details>
 
 
-References and citations were handled via the Zotero Integration and Pandoc Reference List, although actually displaying a reference via the reference list required a restart it worked without complains so far.
+References and citations were handled via the Zotero Integration and Pandoc Reference List, although actually displaying a reference via the reference list required a restart of Obsidian, but then it worked without complaints, so far.
 
 ## The Problem
 
@@ -42,7 +42,7 @@ But there are also limitations. The PDF export of Obsidian is not enough. I need
 
 Since the content itself was just markdown I could also use Zettlr, which has the Pandoc conversion features built in.
 
-Converting via something like Pandoc wasn't perfect though, the end result always require further adjustments. So I couldn't find a way to convert the markdown file to a adequate result.
+Converting via something like Pandoc wasn't perfect though, the end result always required further adjustments. So I couldn't find a way to convert the markdown file to an adequate result.
 
 For me the separation of content and appearance was important, I see it as a fundamentally better approach on writing long-form content, especially in the case of research papers.
 
@@ -56,9 +56,9 @@ So I looked for alternatives, and there didn't seem to be a good LaTeX editor.
 
 Knowing that I had to make some compromises I went with using Visual Studio Code with the LaTeX Workshop plugin. Setup wasn't too hard in the end, especially since I was using Windows, but it did require some manual steps and the experience was far from great, so much unnecessary complexity and horrible websites. I used the MiKTeX flavor of LaTeX, since that seemed to be the most widely used one.
 
-After getting familiar with the LaTeX syntax I realised that writing LaTeX itself was not that hard. The syntax is not perfect though. Some projects that improve upon this such as Typst are nice, but they also all seemed have some problem that didn't make them a viable alternative.
+After getting familiar with the LaTeX syntax I realised that writing LaTeX itself was not that hard. The syntax is not perfect though. Some projects that improve upon this such as Typst, Quarkdown, [AsciiDoc](https://asciidoc.org/) or [R Markdown](https://rmarkdown.rstudio.com/) are nice, but they also all seemed to have some problem that didn't make them a viable alternative. Hopefully in the future there will be some strong contenders.
 
-So LaTeX it was. Visual Studio Code is not the perfect interface for writing long-form text, but it's also not bad. I made my `main.text`file that included all relevant imports, one import for each chapter. Next time I will be writing a academic paper I will be starting with this, and split my project into multiple `.tex` files that then get imported into the main file.  
+So LaTeX it was. Visual Studio Code is not the perfect interface for writing long-form text, but it's also not bad. I made my `main.text`file that included all relevant imports, one import for each chapter. Next time I will be writing an academic paper I will be starting with this, and split my project into multiple `.tex` files that then get imported into the main file.  
 
 I first started without many "packages", additional libraries that add further functionality, to understand the basic syntax, and then added them based on an example provided by my university. ChatGPT, or any other LLM, can be very helpful in understanding LaTeX and giving you feedback, it was especially helpful for me in creating figures.
 
