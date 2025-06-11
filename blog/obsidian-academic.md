@@ -12,14 +12,14 @@ Should you use Obsidian for academic writing?
 
 I recently finished my bachelor thesis. I've been using Obsidian for multiple years now, all my blog posts are written in Obsidian, and I do a lot more in Obsidian. Writing content in markdown is fast and comfortable. So I thought, why not write my bachelor thesis in Markdown with Obsidian as well?
 
-I then realized later on that this is not the best idea, but let's start from the beginning
+I then realized later on that this is not the best idea, but let's start from the beginning.
 
 ## Getting Started
 
 To further enhance some aspects of Obsidian and make academic writing within Obsidian better I found some plugins:
 
 - [Longform](https://github.com/kevboh/longform) - Longform allows you to organize a collection of notes into a nested list, which you can then combine into one document. I like this because it lets me split my thesis into multiple parts, then start writing on one part and just focus on that. I can then later easily adjust the order.
-- [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)- If you do academic work you probably already know Zotero, it's a reference manager. It makes it much easier to create academic references, and with this plugin you can include them visa a "@ + citekey".
+- [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration) - If you do academic work you probably already know Zotero, it's a reference manager. It makes it much easier to create academic references, and with this plugin you can include them via a "@ + citekey".
 - [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) - I don't even use Pandoc, so why use this plugin? It will display a list of all the references in your current note on the right. The idea to use this plugin with the Zotero Integration came from [this video](https://youtu.be/8yMko1m8XSQ) by Paul.
 
 Now I had everything I need, I thought, I can create headers and lists via the normal markdown syntax. I can include images like that as well. Longform allows me to focus on each chapter. I had a list of around 6 to 8 main chapter, and each of them had multiple subchapters. This was also represented as a list via the Longform plugin.
@@ -40,7 +40,7 @@ What I liked about this workflow compared to writing LaTeX or Microsoft Word / L
 
 But there are also limitations. The PDF export of Obsidian is not enough. I need a table of contents, tables and figures, correct page numbers, and further format requirements. So the content in markdown had to be converted to LaTeX or .*odt*.
 
-Since the content itself was just markdown I could also use Zettlr, which has the Pandoc conversion features built in.
+Since the content itself was just markdown I could also use [Zettlr](https://www.zettlr.com/), which has the Pandoc conversion features built in.
 
 Converting via something like Pandoc wasn't perfect though, the end result always required further adjustments. So I couldn't find a way to convert the markdown file to an adequate result.
 
