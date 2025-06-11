@@ -8,7 +8,7 @@ tags:
   - productivity
 ---
 
-Should you use Obsidian for academic writing? My experience and why I would recommend against it.
+Should you use Obsidian for academic writing?
 
 I recently finished my bachelor thesis. I've been using Obsidian for multiple years now, all my blog posts are written in Obsidian, and I do a lot more in Obsidian. Writing content in markdown is fast and comfortable. So I thought, why not write my bachelor thesis in Markdown with Obsidian as well?
 
