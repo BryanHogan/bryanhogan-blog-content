@@ -7,5 +7,8 @@ lastUpdate: isoDate optional
 tags:
   - tag
   - tag2
+mastodonRef:
+blueskyRef:
+threadsRef:
 ---
 

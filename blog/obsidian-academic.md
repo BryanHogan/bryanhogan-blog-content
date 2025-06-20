@@ -6,6 +6,9 @@ pubDate: 2025-06-11T02:10:40Z
 tags:
   - obsidian
   - productivity
+mastodonRef: https://mastodon.social/@BryanHogan/114663059307327077
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3lrco33o4l22l
+threadsRef: https://www.threads.com/@bryanhoganme/post/DKv6X7kv3Wr
 ---
 
 Should you use Obsidian for academic writing?
