@@ -73,7 +73,7 @@ I will continue to store research notes and plans in Obsidian, but writing the a
 
 ## Possible Alternatives - Update July 2025
 
-Since posting this I've received a few good-looking alternatives.
+Since posting this I've received relevant suggestions for alternatives.
 
 1. Typst - Even though it looked like a clear improvement over LaTeX I originally dismissed it as it seemed to be another online-only walled-garden service. But it is possible to run it offline, since parts of it are open-source. A good solution to do that on desktop seems to be [Typstify](https://typstify.com/). There's also someone working on an Android tool called [BeauTyXT](https://beautyxt.app/).
 2. [Quarto](https://quarto.org/) - A powerful tool that can do a lot, can use Markdown as well as Typst to create documents. But it looks complicated, didn't understand its focus yet.
