@@ -52,7 +52,7 @@ The Seoul Metropolitan Government has officially declared 7 tourist zones in Seo
 They are all great and well worth visiting, with the exception of Myeong-dong maybe.
 You also (probably) can't go wrong with getting an accommodation in any of these areas, but more on that later below.
 
-Some favourites of mine, in no particular order:
+Some favourites of mine in no particular order:
 
 **Hongdae.** (홍대)  
 A more modern area of Seoul. Known for its modern feel and vibrant nightlife. But also by day it's great with many restaurants, cafes, clothing shops and more. I can highly recommend walking along the Red Road (Eoulmadang-ro), either start at Sogang Univ. Station or start on the other side in the Mapo Saebit Culture Forest near Hapjeong station.
