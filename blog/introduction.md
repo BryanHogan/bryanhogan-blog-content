@@ -22,6 +22,7 @@ My favorite topics and posts.
 
 - [My exchange semester at Hanyang University ERICA](/blog/hanyang-erica-exchange)
 - [South Korea travel guide for anyone visiting for the first time](/blog/south-korea-travel-guide)
+- [Why Koreans ask what year you were born](/blog/korean-age)
 
 ## Book Reviews
 

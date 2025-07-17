@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/app (conflict 2025-06-16-10-22-05).json",
-                "bFile": ".obsidian/app (conflict 2025-06-16-10-22-05).json",
+                "aFile": ".obsidian/core-plugins (conflict 2025-06-16-10-22-05).json",
+                "bFile": ".obsidian/core-plugins (conflict 2025-06-16-10-22-05).json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: app (conflict 2025-06-16-10-22-05).json"
+              "title": "Diff: core-plugins (conflict 2025-06-16-10-22-05).json"
             }
           }
         ]
@@ -179,6 +179,8 @@
   },
   "active": "56fc4869b60f11be",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "drafts/new-chapter-nomadic-life.md",
     "blog/new-chapter-nomadic-life.md",
     "blog/obsidian-academic.md",
     "drafts/template-emoji.md",
