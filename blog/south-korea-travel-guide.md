@@ -3,7 +3,7 @@ title: First Time In South Korea Guide
 description: Essential tips for your first trip to South Korea. Location, activity, accommodation, food and attraction recommendations.
 coverImage: ../blog-assets/covers/Map-Guide-Seoul-Cover.svg
 pubDate: 2024-09-27T18:16:10Z
-lastUpdate: 2024-09-27T18:16:10Z
+lastUpdate:
 tags:
   - korea
   - travel
@@ -39,26 +39,26 @@ Things to get when you arrive in Korea:
 ## Great locations in Seoul to visit
 Seoul is actually quite large with many different areas that can feel totally different. I still feel like there are so many things I haven't seen here yet, I love going outside and exploring new places. Before coming to Korea I have never felt like this about traveling.
 
-The Seoul Metropolitan Government has officially declared 7 tourist zones in Seoul[^1] [^2]:
+There are [7 officially declared tourist zones](https://english.visitseoul.net/lantern/Themes%20by%20Special%20Tourist%20Zone_/35529), many of which I can also highly recommend.
 
-1. Jong-ro & Cheonggyecheon Stream (Jongno-gu)
-2. Myeong-dong, Namdaemun, Bukchang-dong, Da-dong & Mugyo-dong (Jung-gu)
-3. Dongdaemun Fashion Town (Jung-gu)
-4. Itaewon (Yongsan-gu)
-5. Hongdae Culture & Arts (Mapo-gu)
-6. Gangnam MICE (Gangnam-gu)
-7. Jamsil (Songpa-gu)
+The areas I mostly recommend are:
+1. Hongdae
+2. Yeonnam
+3. Jong-ro
+4. City Hall Station
+5. Seongsu
 
-They are all great and well worth visiting, with the exception of Myeong-dong maybe.
 You also (probably) can't go wrong with getting an accommodation in any of these areas, but more on that later below.
 
-Some favourites of mine in no particular order:
+More on these favourites of mine in no particular order:
 
 **Hongdae.** (홍대)  
 A more modern area of Seoul. Known for its modern feel and vibrant nightlife. But also by day it's great with many restaurants, cafes, clothing shops and more. I can highly recommend walking along the Red Road (Eoulmadang-ro), either start at Sogang Univ. Station or start on the other side in the Mapo Saebit Culture Forest near Hapjeong station.
 
+The areas around Hongdae have many great restaurants, so you will a have great time in Sinchon and Hapjeong as well. Or if you take the subway for one more station after Hapjeong you can go to Mangwon and visit the [Mangwon Traditional Market](https://naver.me/5eUcpKva).
+
 **Yeonnam.** (연남)  
-Directly north of Hongdae you can find Yeonnam, a smaller area filled with the prettiest cafes. Yeonnam's streets are narrow, giving it a more cozy feel.
+Directly north of Hongdae you can find Yeonnam, a smaller area filled with the prettiest cafes. Yeonnam's narrow yet cozy streets make exploring it very fun.
 
 **Jong-ro.** (종로)  
 There are many great areas in Jong-ro, since it's a bit larger. There are multiple train stations here with many things to see. Like the area around Jonggak station (종각역) is always enjoyable. The areas around Gyeongbokgung Palace, except the north, are also all great. There's even <a href="https://www.jongno.go.kr/englishMain.do" target="_blank">website all about Jongno</a> with recommendations on where to go, like the traditional Bukchon Hanok Village.
@@ -68,7 +68,10 @@ The area surrounding City Hall station is also really nice, it's the historical 
 
 You also have Myeong-dong directly to the east, a popular shopping area of Seoul that has become more of a tourist trap with highly overpriced meals recently. But its offering of street food in the evening is still enjoyable.
 
-If I had to recommend 3 things for any tourist visiting Korea I'd say:
+**Seongsu.** (성수)  
+Seongsu is another modern area of Seoul. It has many shops and cafes. There are also many pop-up stores.
+
+If I had to recommend 3 singular things for any tourist visiting Korea I'd say:
 - Gyeognbokgung Palace / 경복궁 (<a href="https://naver.me/FLBKTWSB" target="_blank">Naver Maps</a>)
 - Namsan Seoul Tower / 남산서울타워 (<a href="https://naver.me/xlW10MyG" target="_blank">Naver Maps</a>)
 - Lotte World Tower / 롯데월드타워 (<a href="https://naver.me/55IrNwzn" target="_blank">Naver Maps</a>)
@@ -76,6 +79,8 @@ If I had to recommend 3 things for any tourist visiting Korea I'd say:
 ![Sunrise view from near Namsan Seoul Tower during News Years](../blog-assets/images/Bryan-Hogan-Blog-South-Korea-New-Years.png)
 
 The view of the 2024 New Year's sunrise near the Namsan Seoul Tower.
+
+If you visit Seoul on a very rainy day and want to stay indoors I can recommend the [iPark Mall in Yongsan](https://naver.me/GUwSuJc5), the [Starfield Mall in Gangnam](https://naver.me/xprAqNM7) or the [Starfield mall in Suwon](https://naver.me/xWTnpnqm). *I mention more activities further down.*
 
 ## Where to stay
 Should you stay in a hotel, hostel, AirBnB or Goshiwon?
@@ -244,9 +249,10 @@ So here are some things that you might want to try while in South Korea:
 7. **Cafes.** I already mentioned cafes earlier, but I want to highlight how many different cafes there actually are. From room cafes or multi bangs to animal or DIY cafes. So if you want to visit a Harry Potter cafe, have British tea time, have your own room to watch Netflix or listen to music on vinyl records, it's all there.
 8. **Amusement Parks.** Lotte World and Everland are the two most popular amusement parks in South Korea. Lotte World is located in Seoul and a bit smaller, still a fun place to spend the day. Everland is located outside of Seoul and Korea's largest amusement park. Even though it's smaller than the big amusement parks in Germany it's still worth a visit.
 9. **Virtual sports.** There's a large offering of different virtual sports in Korea. Here you can try virtual baseball or golf, but there's also places for shooting or VR games.
-10. **Shopping & night shopping.** Shopping, for cosmetic products at Olive Young or fashion at the million stores available, is highly popular in Korea. In areas such as the Dongdaemun market area you can even do your shopping at 2am. 
-11. **Bars.** There are different kinds of bars and drinking places in Korea. From soju & beer places or cocktail bars to hunting pochas, hidden bars or game bars. Soju and beer is very cheap and popular in Korea, you can also mix the two. Or if you don't like the taste of pure Soju get a flavoured one, or mix it yourself. Hunting Pochas, or also called Hunting Bars, are places where people go to quickly meet new "romantic" partners. Korea also has bars with more novel concepts such as bars where you can play different kinds of games.
-12. **Ice skating.** There are nice ice skating rinks in Korea.
+10. **Shopping & night shopping.** Shopping, for cosmetic products at Olive Young or fashion at the million stores available, is highly popular in Korea. In areas such as the Dongdaemun market area you can even do your shopping at 2am.  
+I also highly recommend to visit Daiso and ArtBox at least once.
+1.  **Bars.** There are different kinds of bars and drinking places in Korea. From soju & beer places or cocktail bars to hunting pochas, hidden bars or game bars. Soju and beer is very cheap and popular in Korea, you can also mix the two. Or if you don't like the taste of pure Soju get a flavoured one, or mix it yourself. Hunting Pochas, or also called Hunting Bars, are places where people go to quickly meet new "romantic" partners. Korea also has bars with more novel concepts such as bars where you can play different kinds of games.
+2.  **Ice skating.** There are nice ice skating rinks in Korea.
 
 During summer:
 1. **Paddle boating.** During the summer near the Han River paddle boating places open up.
@@ -314,12 +320,11 @@ Then there are channels in Korean like <a href="https://www.instagram.com/_seoul
    - Information guides: https://english.visitseoul.net/map-guide-book
    - List of places to go for entertainment: https://english.visitseoul.net/entertainment, there's also lists for attractions, shopping, restaurants and more.
 -  <a href="https://english.seoul.go.kr/category/policy/culture-and-tourism/" target="_blank">seoul.go.kr culture and tourism</a> - Updates, new events and other tourism related things going on, a site from the Seoul Metropolitan Government.
+- <a href="https://www.tripadvisor.com.sg/Attractions-g294197-Activities-c26-a_attractionType.SUPPLIERS-a_sort.TRAVELER__5F__RANKED-Seoul.html" target="_blank">tripadvisor.com recommendations</a> - List of things to visit around Seoul by TripAdvisor.
+-  <a href="https://thesoulofseoul.net/explore-seoul/" target="_blank">thesoulofseoul.net</a> - A blog with general travel recommendations around Seoul.
 
 ## Other things
 - ARC: You will need an Alien Registration Card (ARC), also refered to as Residence Card, when you stay more than 90 days in South Korea. Connect your Korean phone number with your ARC and you can now use any apps and services just like a Korean resident.
 - Korean bank account: A Korean bank account is useful for many Korean apps and services. Sending money and giving gifts through KakaoTalk is highly convenient.
 - Tips on using Naver Maps: First off, if you prefer English change the language to English, but keep in mind not everything will be in English then. When looking for a place name in English you might have to combine the word into one, so "SuwonStation" instead of "Suwon Station", but just sometimes not always.
   One hidden trick to find the best cafes and amazing locations to visit is by using the "Attractions" button on Naver Maps. Press it, then zoom in on the area you want to know more of, then press "Search here" at the top again.
-
-[^1]: https://english.seoul.go.kr/special-inspections-of-7-special-tourist-zones-to-prevent-price-gouging
-[^2]: https://english.visitseoul.net/lantern/Themes%20by%20Special%20Tourist%20Zone_/35529
