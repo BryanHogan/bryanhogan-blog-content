@@ -3,7 +3,6 @@ title: First Time In South Korea Guide
 description: Essential tips for your first trip to South Korea. Location, activity, accommodation, food and attraction recommendations.
 coverImage: ../blog-assets/covers/Map-Guide-Seoul-Cover.svg
 pubDate: 2024-09-27T18:16:10Z
-lastUpdate:
 tags:
   - korea
   - travel
