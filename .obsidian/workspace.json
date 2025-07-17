@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9022baf44d75eefc",
+        "id": "5fa0714b27dd74f3",
         "type": "tabs",
         "children": [
           {
-            "id": "56fc4869b60f11be",
+            "id": "114c3f02dc6d3ea6",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/core-plugins (conflict 2025-06-16-10-22-05).json",
-                "bFile": ".obsidian/core-plugins (conflict 2025-06-16-10-22-05).json",
+                "aFile": "blog/south-korea-travel-guide.md",
+                "bFile": "blog/south-korea-travel-guide.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: core-plugins (conflict 2025-06-16-10-22-05).json"
+              "title": "Diff: south-korea-travel-guide"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56fc4869b60f11be",
+  "active": "114c3f02dc6d3ea6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "drafts/new-chapter-nomadic-life.md",

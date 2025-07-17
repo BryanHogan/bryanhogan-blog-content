@@ -3,7 +3,7 @@ title: First Time In South Korea Guide
 description: Essential tips for your first trip to South Korea. Location, activity, accommodation, food and attraction recommendations.
 coverImage: ../blog-assets/covers/Map-Guide-Seoul-Cover.svg
 pubDate: 2024-09-27T18:16:10Z
-lastUpdate: 2024-09-27T18:16:10Z
+lastUpdate: 
 tags:
   - korea
   - travel
@@ -237,7 +237,7 @@ So here are some things that you might want to try while in South Korea:
   In Karaoke places in Korea you usually get one room for your group and then you have a machine that you can operate yourself to find a song of your liking. Depending on the size of the room there are 2 or more microphones. After selecting a song the song starts and you get the lyrics displayed on screen.
 3. **Pop-up Stores.** Pop-up stores are stores with a specific theme that only exist for a limited time. Often they are really cool since they are decorated in detail and offer fun experiences like free games, unique products or free pictures. (I'm a proud owner of a soju and beer licence, which I got at a Jinso Soju pop-up store.)
 4. **Arcades.** Try your luck (and skill) to win something at the claw machine, or maybe just enjoy one of the arcade games.
-5. **PC Bang.** At a Pc방 you can play games on a pc. You will find many Koreans going here to play League of Legends. Fifa, PUBG, Valorant, Sudden Attack, Maple Story, Overwatch and Lost Ark are also popular here.
+5. **PC Bang.** At a Pc방 / Pc cafe you can play games on a pc. You will find many Koreans going here to play League of Legends. Fifa, PUBG, Valorant, Sudden Attack, Maple Story, Overwatch and Lost Ark are also popular here. Steam is already pre-installed, or you can just download what you need.
   In a Pc Bang you will find many Pcs all equipped with special software. Buy some time at the machine and then log in with the code given to you. You can order food and drinks right at your pc and they will deliver it to you, it's highly comfortable.  
   Be aware that to make an permanent account at the Pc Bang itself or for online games like League of Legends you will need an ARC and a Korean phone number connected to it.
 6. **Playstation Room** (플스방)**.** A playstation room is a place where you can play console games. 
