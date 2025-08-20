@@ -10,6 +10,8 @@ threadsRef: https://www.threads.net/@bryanhoganme/post/DHiikHjMM37
 mastodonRef: https://mastodon.social/@BryanHogan/114211440473909658
 ---
 
+⚠️ Obsidian has released Bases. You probably want to use Bases instead! ⚠️
+
 Obsidian is a versatile tool and it's how I keep track of all the games I want to play, am currently playing and have played.  
 There are two main ways how you can make a pretty gaming backlog library in Obsidian:  
 1. Using the "Projects" plugin
