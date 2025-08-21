@@ -27,7 +27,7 @@ This can result in gatekeeping, regulatory capture, and fewer real alternatives.
 
 ## Dependence and skill atrophy
 
-Used well, AI can raise the floor. Used mindlessly, it can lower the ceiling.
+AI can help us learn quicker, to produce better content more quickly. On the other hand, it can also be used as an alternative for thinking, used for filling the world with garbage.
 
 Many education systems have been outdated more than 50 years ago, and they aren't ready for this development as well. Many systems still reward output over process. Tech and "AI" literacy, how technology is changing our social interactions and the dangers this brings, is becoming more and more relevant, and is still missing fundamentally at most places.
 
@@ -45,4 +45,4 @@ Part of ChatGPT's answer:
 
 It even found a Reddit post I had made the day before that got some traction. I've included [the response as a PDF](/documents/ChatGPT-Response.pdf).
 
-The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is what happens when much larger actors run the same playbook continuously, across every platform, with budgets, infrastructure, and patience. At that point, "the conversation" isn't a conversation. It's a scripted environment optimized to move you.
+The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you.
