@@ -1,32 +1,48 @@
 ---
 title: Blog Introduction
-description: Welcome to my blog, overview of my best and most popular posts.
+description: Welcome to my blog! An overview of what I write about, and my best & most popular posts.
 emoji: 👋
 pubDate: 2025-02-10T23:23:11Z
 tags:
   - blog
 ---
 
-My favorite topics and posts.
+Welcome to my blog! I write about things that I would have loved to know before I knew about them.
 
-## Obsidian
+## How I create content & write
 
-➡️ See all posts tagged ["Obsidian"](/tags/obsidian)
+I use **[Obsidian 🏷️](/tags/obsidian)** as a "knowledge management tool". In Obsidian I collect and organize my thoughts and new insights, and I also use it to write my online content.
+
+➡️ Relevant posts: 
 
 - [Obsidian Zettelkasten: A life-long smart note-taking system that scales](/blog/obsidian-zettelkasten)
-- [Build a gaming backlog library (or anything similar) using Obsidian](/blog/obsidian-gaming-backlog)
+- [Use Obsidian with Astro to write content for your website using GitHub submodules](obsidian-astro-submodule)
 
-## Korea
+## Life in Korea & learning Korean
 
-➡️ See all posts tagged ["Korea"](/tags/korea).
+2023 I lived in **[South Korea 🏷️](/tags/korea)**, I enjoyed it so much that I extended my stay. Since then I have been improving my Korean, and writing about what makes Korea unique and why I enjoy living there.
 
-- [My exchange semester at Hanyang University ERICA](/blog/hanyang-erica-exchange)
+➡️ Relevant posts:
+
 - [South Korea travel guide for anyone visiting for the first time](/blog/south-korea-travel-guide)
 - [Why Koreans ask what year you were born](/blog/korean-age)
+- [My exchange semester at Hanyang University ERICA](/blog/hanyang-erica-exchange)
+- I'm building a separate website about helping you learn Korean: [ToLearnKorean.com](https://tolearnkorean.com/)
 
-## Book Reviews
+My year abroad in Korea also made me interested in seeing life in other countries, especially in Asia.
 
-➡️ See all posts tagged ["Book"](/tags/book)
+➡️ Relevant posts:
 
-- [Why We Sleep - Summary, Review & Thoughts](/blog/why-we-sleep)
+- Currently writing a post about living in Macau.
+
+## How to build valuable products & building on the web
+
+I want to build my own things and spend my time well.
+
+Entrepreneurship & product design:
+
 - [Show Your Work - Summary, Review & Thoughts](/blog/show-your-work)
+
+Development & tech:
+
+- [webdev.bryanhogan.com](https://webdev.bryanhogan.com/)
