@@ -33,11 +33,11 @@ My year abroad in Korea also made me interested in seeing life in other countrie
 
 ➡️ Relevant posts:
 
-- Currently writing a post about living in Macau.
+- [Living in Macau](/blog/living-in-macau)
 
 ## How to build valuable products & building on the web
 
-I want to build my own things and spend my time well.
+I want to build my own things and spend my time well. Working on DailySelfTrack, and freelance work.
 
 Entrepreneurship & product design:
 
