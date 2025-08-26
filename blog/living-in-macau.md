@@ -40,6 +40,7 @@ Non specific:
 It's easy to go to Mainland China from Macau as well. And I'd highly recommend it, things are generally cheaper in China. If you go to China you will need:
 - WeChat Pay and/or AliPay - For making payments. Make sure you fully registered so your account doesn't get locked after a few transactions. With non-Chinese banks these apps do not work in Macau.
 - Amap (Gaode) - For navigation. Also very useful for the University of Macau campus.
+- DiDi - The taxi app for China. Compared to Germany taking a taxi / DiDi here is very cheap.
 
 ## Worth visiting?
 
@@ -57,7 +58,9 @@ Macau's main appeal are its casinos, which are fun to visit for a day even if yo
 
 Which languages are actually used in Macau interested me immensely when I first heard about Macau, since information on this online also seemed sparse.
 
-Macau residents use Cantonese. In many places in Macau the majority of people are from mainland China though, and they use Mandarin. Portuguese is still used in official signs in addition to Chinese, but not actually used anymore by the people except for rare cases. English is spoken well at the Casinos and often used by the many immigrant workers that come from other Asian countries, but often not spoken well by Macau locals or Mainland Chinese.
+Macau residents use Cantonese. In many places in Macau the majority of people are from mainland China though, and they use Mandarin. Portuguese is still used in official signs in addition to Traditional Chinese, but not actually used anymore by the people except for rare cases. English is spoken well at the Casinos and often used by the many immigrant workers that come from other Asian countries, but often not spoken well by Macau locals or Mainland Chinese.
+
+Macau uses traditional Chinese writing, just like Taiwan and Hong Kong. Mainland China instead uses simplified Chinese, so the characters there are simpler and less complex.
 
 ## Life at the University of Macau
 
@@ -86,7 +89,7 @@ The research project I applied to was about the LRT (Light Rapid Transit) line i
 
 In total there were 7 other IAESTE interns at the University who were all working on different projects. As it was summer holidays for regular students at the University of Macau there were almost no events, club activities or similar going on on the campus.
 
-During the internship I was living at the dormitory of the university. The room at the dormitory is shared, so I slept in the same room as another IAESTE intern from Germany. The dormitory did not have a kitchen, but the washing machine and dryer were free. The room had cockroaches when I arrived, which also came back from time to time. Termites inside the wooden door also sometimes made sounds during the night.
+During the internship I was living at the dormitory of the university. The room at the dormitory is shared, so I slept in the same room as another IAESTE intern from Germany. The dormitory did not have a kitchen, but the washing machine and dryer were free. The room had cockroaches when I arrived, which also came back from time to time. Termites inside the wooden door also sometimes made sounds during the night. (For my Chinese friends: In Germany it's **not** normal to have these in your house.)
 
 The work itself was mostly relaxed and I felt very welcome by the professor who I worked for. The Macau people I had met were very kind, there also seems to be a strong sense of community and belonging here.
 
