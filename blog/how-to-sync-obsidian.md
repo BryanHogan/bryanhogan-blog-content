@@ -3,7 +3,7 @@ title: How To Sync Obsidian
 description: How to synchronize your Obsidian Vaults. Using Obsidian Sync, Syncthing, Google Drive or Github.
 coverImage: ../blog-assets/covers/Obsidian-Sync-Cover.svg
 pubDate: 2024-06-09T21:48:59Z
-lastUpdate: 2024-11-29T23:57:50Z
+lastUpdate: 2025-09-02T06:26:25+00:00
 tags:
   - obsidian
   - productivity
@@ -90,7 +90,7 @@ I already back-up my Vaults to Github from time to time. But you can take it a s
 The most straightforward way to synchronize with git is to use the Obsidian plugin [Git](https://github.com/denolehov/obsidian-git).  
 Their github repo also includes a [installation guide for mobile devices](https://github.com/denolehov/obsidian-git/wiki/Installation).
 
-There is also a guide on the Obsidian forums on [how to sync between Linux Debian and an iPad](https://forum.obsidian.md/t/yet-another-obsidian-git-tutorial-desktop-pc-ipad-sync/67531) that includes **all the steps** needed to do so.
+There is this more [detailed guide on how to sync using Git and GitHub](https://viscouspotential.medium.com/how-to-sync-obsidian-across-all-devices-using-git-automatically-and-for-free-dd3c76e7447b) which includes all relevant steps and works for all common desktop and mobile devices.
 
 [^1]: Synching with Dropbox, OneDrive, Yandex Disk etc. is also possible. There's this [remotely save plugin](https://github.com/remotely-save/remotely-save) which needs a bit of setup but seems to help, though I have not personally tested it.
 [^2]: [Reddit: Did Google Remove the $1.99 (100GB) Option?](https://www.reddit.com/r/GoogleOne/comments/zzertm/did_google_remove_the_199_100gb_option/) and [Google One is playing hide-and-seek with its 200GB plan](https://www.androidcentral.com/apps-software/google-one-hides-200gb-plan)
