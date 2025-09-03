@@ -13,11 +13,13 @@ I originally wrote this when ChatGPT first launched, when I was first able to ex
 
 ## Misinformation and information control
 
-AI makes it cheap to generate convincing text, images, and video at scale. So it could help people learn faster, or flood channels with persuasive nonsense.
+You can generate a lot of things with AI, text, images, videos and more. So people can use it to help them learn, or to flood the internet with trash.
 
-But there's also the other side, the models themselves are never free from bias.
+Then there are also the models themselves, and the data they have been trained on. In machine learning there is always a bias, which is impossible to get rid of completely.
 
-Because models are influenced by their training data, safety layers, and whoever pays for distribution, it's easy for economic or political interests to steer what people see. At scale, that looks like targeted propaganda, astroturfed consensus, and filter bubbles that feel organic but aren't.
+But then there is also the bias of the party behind the model, the people that finances its crcreation. This includes both political and economical interest which has an effect on the training data used, as well as things such as the safety layers built into the model.
+
+This critically influences what people can see when interacting with such models, but there is much less transparency behind the results.
 
 ## Power shift towards a small elite
 
