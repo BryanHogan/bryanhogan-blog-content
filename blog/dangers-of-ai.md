@@ -17,7 +17,7 @@ You can generate a lot of things with AI, text, images, videos and more. So peop
 
 Then there are also the models themselves, and the data they have been trained on. In machine learning there is always a bias, which is impossible to get rid of completely.
 
-But then there is also the bias of the party behind the model, the people that finances its crcreation. This includes both political and economical interest which has an effect on the training data used, as well as things such as the safety layers built into the model.
+But then there is also the bias of the party behind the model, the people that finance its creation. This includes both political and economical interest which has an effect on the training data used, as well as things such as the safety layers built into the model.
 
 This critically influences what people can see when interacting with such models, but there is much less transparency behind the results.
 
@@ -35,11 +35,11 @@ Many education systems have been outdated more than 50 years ago, and they aren'
 
 ## Update - August 2025
 
-Public agents are here. They can navigate websites and interact with elements. They can browse, click, post, and DM. A lot of "social" activity online will soon be bots talking to bots, with humans as the target metric.
+AI "agents" are easily available now. They can navigate websites and interact with elements. They can interact with the internet like a human. A lot of "social" activity online will soon be bots talking to bots, with humans as the target metric.
 
 Lots of opportunities for "social" online interaction to just be done by people looking to sell something or influence others opinion for their personal gain, whatever that may be.
 
-It's now easy to find posts and threads where a well-placed comment can push a product, an agenda, or a narrative. I tested this myself: I asked ChatGPT to surface social posts where I could add a relevant reply pointing to my blog. It did exactly that.
+It's now easy to find posts and threads where a well-placed comment can push a product, an agenda, or a narrative. I tested this myself, I asked ChatGPT to surface social posts where I could add a relevant reply pointing to my blog. And that's what it did.
 
 Part of ChatGPT's answer:
 
