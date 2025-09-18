@@ -1,10 +1,9 @@
 ---
 title: Dangers of AI
-description: Risks of AI - Misinformation, power concentration, skill loss. The shift towards a bot-filled internet.
+description: 'Risks of AI - Misinformation, power concentration, skill loss. The shift towards a bot-filled internet.'
 emoji: ⚠️
 pubDate: 2025-08-20T04:20:58+00:00
-tags:
-  - AI
+tags: [AI]
 ---
 
 AI is very powerful, it allows us to do a lot of new things and become much more efficient at things we currently do, but it is also immensely dangerous.
@@ -47,4 +46,4 @@ Part of ChatGPT's answer:
 
 It even found a Reddit post I had made the day before that got some traction. I've included [the response as a PDF](/documents/ChatGPT-Response.pdf).
 
-The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you.
+The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you. Okay!
