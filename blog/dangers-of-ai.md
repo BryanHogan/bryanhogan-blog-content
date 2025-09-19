@@ -46,4 +46,4 @@ Part of ChatGPT's answer:
 
 It even found a Reddit post I had made the day before that got some traction. I've included [the response as a PDF](/documents/ChatGPT-Response.pdf).
 
-The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you..
+The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you.
