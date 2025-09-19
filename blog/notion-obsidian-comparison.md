@@ -3,7 +3,7 @@ title: Notion vs Obsidian - Comparison
 description: Notion vs Obsidian comparison, which one should you use?
 coverImage: ../blog-assets/covers/Obsidian-Notion-Comparison-Cover.svg
 pubDate: 2025-01-19T07:35:38Z
-lastUpdate: 2025-01-19T07:35:38Z
+lastUpdate: 2025-09-19T02:01:09+00:00
 tags:
   - obsidian
   - notion
@@ -52,7 +52,7 @@ Both tools have some things that could be better, let's focus on that next.
 - **You don't own your data** - Your data is on Notion servers and does not belong to you. You can lose access at any time and depend on the whims of Notion. Your data is also used by Notion for marketing purposes, as well as training their algorithms and tools like AI.
 - **No open file system** - Since the files are not saved on your device and the file system is not something you can open with other tools it's hard to store information for long-term use.
 - **Poor customisation** - Notion does not have a lot of underlying settings you can tweak. You are always forced to update. There are no ways to reject unwanted features and bloat, for example AI features are forced on you without a way to disable them in the settings.
-- **No offline mode** - Notion does not work without internet. Meaning if your connection or Notion's connection doesn't work, you won't have access to your notes. Especially living in a country with bad internet like Germany can make it hard to sometimes access your notes. (Notion has planned an offline mode for the future).
+- **Limited offline mode** - Notion can work offline, but one has to declare beforehand which files are available offline. The offline mode is also heavily limited, it's not even possible to go into settings while offline. Notion is built around being online first. So living in a country with bad internet, like Germany, can make it hard to sometimes access your notes.
 - **Bugs** - I have experienced a lot of bugs within Notion, from interface problems to more severe issues causing whole notes to be deleted (it was caused by a synchronisation issue which has existed for years). I had also often heard of people losing their data in Notion.  
 There are also bugs that can cause major problems like when you add the numbers together from a table, Notion stops calculating a sum after not that many rows, confidently giving you a wrong calculation result.
 
