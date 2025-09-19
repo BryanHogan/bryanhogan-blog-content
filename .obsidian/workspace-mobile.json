@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/astro-obsidian.md",
+                "file": "blog/dangers-of-ai.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "astro-obsidian"
+              "title": "dangers-of-ai"
             }
           }
         ]
@@ -145,14 +145,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cec99bc7b844a1ec",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "blog/south-korea-travel-guide.md",
+    "blog/new-chapter-nomadic-life.md",
+    "blog/astro-obsidian.md"
+  ]
 }
