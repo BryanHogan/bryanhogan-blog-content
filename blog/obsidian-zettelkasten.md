@@ -10,7 +10,7 @@ tags: ["obsidian", "productivity"]
 Create a second brain. The life-long note taking system Zettelkasten.
 
 ## What is a Zettelkasten?
-Zettelkasten, or also sometimes called "Luhmann’s slip-box"(?), "evergreen notes" or "smart notes" is a system for life-long note taking. It is a system to store your notes in a way that scales for your whole life. All of your information is stored in an accessible way, a second brain.
+Zettelkasten, or also sometimes called "Luhmann’s slip-box", "evergreen notes" or "smart notes" is a system for life-long note taking. It is a system to store your notes in a way that scales for your whole life. All of your information is stored in an accessible way, a second brain.
 
 Traditional note taking setups are top-down. You define a category, either the name of a folder, the name of a Notion page/section or the name of your textbook. Then later on you add notes relating to that topic within that defined group.
 
