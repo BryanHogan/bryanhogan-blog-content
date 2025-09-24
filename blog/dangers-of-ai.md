@@ -32,7 +32,9 @@ AI can help us learn quicker, to produce better content more quickly. On the oth
 
 Many education systems have been outdated more than 50 years ago, and they aren't ready for this development as well. Many systems still reward output over process. Tech and "AI" literacy, how technology is changing our social interactions and the dangers this brings, is becoming more and more relevant, and is still missing fundamentally at most places.
 
-## Update - August 2025
+## The end of a social internet
+
+*Added this part later in August 2025.*
 
 AI "agents" are easily available now. They can navigate websites and interact with elements. They can interact with the internet like a human. A lot of "social" activity online will soon be bots talking to bots, with humans as the target metric.
 
@@ -46,4 +48,12 @@ Part of ChatGPT's answer:
 
 It even found a Reddit post I had made the day before that got some traction. I've included [the response as a PDF](/documents/ChatGPT-Response.pdf).
 
-The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to move you.
+The problem isn't that I can promote my blog much faster, in the end it would just be some internet spam. The real problem is that bigger actors with worse intentions can apply this approach on a much larger scale. Digital spaces for social interactions are becoming a scripted environment, optimized to manipulate you.
+
+## Further relevant links
+
+Other sites talking about these problems of AI:
+
+- <a href="https://bradt.ca/blog/no-clicks-no-content/" target="_blank">No Clicks, No Content: The Unsustainable Future of AI Search</a> by Brad Touesnard
+- <a href="https://fortune.com/2025/09/19/cloudflare-matthew-prince-black-mirror-outcome-ai-controls-media/" target="_blank">Cloudflare CEO warns of a ‘Black Mirror’ outcome if Sam Altman or other AI people control the media</a> by Nick Lichtenberg
+- <a href="https://www.noemamag.com/the-last-days-of-social-media/" target="_blank">The Last Days Of Social Media</a> by James O'Sullivan
