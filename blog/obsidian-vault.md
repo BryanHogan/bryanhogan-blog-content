@@ -1,6 +1,6 @@
 ---
-title: Complete Obsidian vault guide tour
-description: Everything you need to know about Obsidian, and how my vault works.
+title: Obsidian vault setup tour
+description: How my Obsidian vault works after, a practical setup. Including bottom-up Zettelkasten notes, plugins, Bases and my general rules.
 coverImage: ../blog-assets/covers/Obsidian-Vault-Cover.svg
 pubDate: 2025-09-28T22:54:31+00:00
 tags:
@@ -12,7 +12,7 @@ I've been using Obsidian for many years now and I enjoy it a lot, for me it's ve
 
 My whole [vault template is available on GitHub](https://github.com/BryanHogan/obsidian-vault-template).
 
-## What do I use my Vault for?
+## What I use my Obsidian vault for
 
 I use my Obsidian Vault for a lot of things: 
 - For writing content such as my blog posts or [monthly e-mail newsletter](/follow).
@@ -20,7 +20,7 @@ I use my Obsidian Vault for a lot of things:
 - For managing projects, and other aspects of my life such as my health.
 - For collecting information on books, video games, YouTube videos and more.
 
-## Underlying Rules
+## Rules for a simple, long-lasting setup
 
 These are the rules I set myself:
 - **Keep it simple.**
@@ -34,7 +34,7 @@ Some additional rules:
 
 I try to avoid unnecessary modifications and prefer a simple long-lasting system, so I'm careful about any plugins and CSS snippets I add. I use the basic dark theme of Obsidian.
 
-## General vault structure
+## Vault structure
 
 I use the following vault structure, each name here is a folder:
 
