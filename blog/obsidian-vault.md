@@ -86,7 +86,7 @@ I use these Bases in combination with the FolderNotes plugin. This allows me to 
 
 ## Plugins I use
 
-I try to us a minimal amount of plugins, especially community plugins. Each plugin introduces complexity, risks, longer loading times and generally makes your system less future proof.
+I try to use a minimal amount of plugins, especially community plugins. Each plugin introduces complexity, risks, longer loading times and generally makes your system less future proof.
 
 I use the following community plugins:
 
@@ -110,24 +110,24 @@ For more information on [how to use Obsidian to create a website look here](/blo
 
 Then I found using a separate GitHub repository as a submodule for Astro to be a good approach for writing markdown for your website anywhere, I wrote about that [GitHub submodule approach here](/blog/obsidian-astro-submodule).
 
-### Synching my vault across desktop and mobile
+### Syncing my vault across desktop and mobile
 
-Obsidian works on both desktop and mobile. Since Obsidian is actually just a collection of markdown files and file sync or cloud service can be used. I back-up my vault from time to time to a personal GitHub repository. For synching I use Google Drive, this includes the Google Drive Desktop program I use on Windows, and the DriveSync app on Android.
+Obsidian works on both desktop and mobile. Since Obsidian is actually just a collection of markdown files, file sync or cloud service can be used. I back-up my vault from time to time to a personal GitHub repository. For synching I use Google Drive, this includes the Google Drive Desktop program I use on Windows, and the DriveSync app on Android.
 
 I wrote a more [detailed comparison of different ways to sync Obsidian and the setup I use here](/blog/how-to-sync-obsidian). 
 
 ### Obsidian or something else?
 
-There's many note-taking applications out there, but for me Obsidian is definitely one of the best. But it's not the only one I use, as different programs have different use-cases. I have a more detailed comparison of [Obsidian vs Notion here].
+There's many note-taking applications out there, but for me Obsidian is definitely one of the best. But it's not the only one I use, as different programs have different use-cases. I have a more detailed comparison of [Obsidian vs Notion here](/blog/notion-obsidian-comparison).
 
-I also not only use Obsidian, I use Notion for and Logseq also. Notion for content that is collaborative or that can use the better Database function there, e.g. the Kanban in Notion is great. Logseq for short daily notes, as having a separate program for quick notes feels better and daily entries in Logseq are shown in an infinite scroll-able vertical view, which makes it easier to find past entries.
+I also not only use Obsidian, I use Notion for and Logseq as well. Notion for content that is collaborative or that can use the better Database function there, e.g. the Kanban in Notion is great. Logseq for short daily notes, as having a separate program for quick notes feels better and daily entries in Logseq are shown in an infinite scroll-able vertical view, which makes it easier to find past entries.
 
 Other note-taking applications that might interest you:
 
 - [Capacities](https://capacities.io/) - Web-based markdown-based note-taking tool, similar to Obsidian.
 - [Affine](https://affine.pro/) - Self-hostable note-taking tool, similar style to Notion, introduces whiteboard views.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - Self-hostable note-taking tool, similar to Notion.
-- [LogSeq](https://logseq.com/) - Open-source note-taking tool, markdown-based but makes everything into lists, overall lower quality than Obsidian.
+- [Logseq](https://logseq.com/) - Open-source note-taking tool, markdown-based but makes everything into lists, overall lower quality than Obsidian.
 
 <details><summary>Further Links 💡</summary>
 
