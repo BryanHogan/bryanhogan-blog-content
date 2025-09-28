@@ -16,7 +16,7 @@ I use **[Obsidian 🏷️](/tags/obsidian)** as a "knowledge management tool". I
 ➡️ Relevant posts: 
 
 - [Obsidian Zettelkasten: A life-long smart note-taking system that scales](/blog/obsidian-zettelkasten)
-- [Use Obsidian with Astro to write content for your website using GitHub submodules](obsidian-astro-submodule)
+- [Use Obsidian with Astro to write content for your website using GitHub submodules](/blog/obsidian-astro-submodule)
 
 ## Life in Korea & learning Korean
 
