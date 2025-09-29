@@ -3,9 +3,7 @@ title: Obsidian vault setup tour
 description: How my Obsidian vault works after, a practical setup. Including bottom-up Zettelkasten notes, plugins, Bases and my general rules.
 coverImage: ../blog-assets/covers/Obsidian-Vault-Cover.svg
 pubDate: 2025-09-28T22:54:31+00:00
-tags:
-  - obsidian
-  - productivity
+tags: [obsidian, productivity]
 ---
 
 I've been using Obsidian for many years now and I enjoy it a lot, for me it's very helpful. Obsidian can be highly customized, and that's great. Important for me is that my Obsidian vault supports me in doing other work, and I've found a system that works well. So what does it look like?
@@ -47,8 +45,6 @@ I use the following vault structure, each name here is a folder:
 6. Miscellaneous *(Contains: Archive, Attachments, Templates, Someday Notes)* - Things that didn't get a home yet, such as template notes and file attachments, e.g. audio and image files.
 
 ![Obsidian vault folders](../blog-assets/images/Obsidian-Vault-Folders.png)
-
-So what's the purpose of each of these folders?
 
 ## Smart notes: Bottom-up note-taking
 
