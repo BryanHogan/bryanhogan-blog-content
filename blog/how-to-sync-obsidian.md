@@ -87,8 +87,7 @@ Use the `Stream files` option and mark them as available for offline, for me the
 
 I already back-up my Vaults to Github from time to time. But you can take it a step further and use it as your synchronization tool. It was a great hassle to setup synchronization through git on mobile, but it seems like things have gotten easier since I last tried it.
 
-The most straightforward way to synchronize with git is to use the Obsidian plugin [Git](https://github.com/denolehov/obsidian-git).  
-Their github repo also includes a [installation guide for mobile devices](https://github.com/denolehov/obsidian-git/wiki/Installation).
+The most straightforward way to synchronize with git is to use the Obsidian plugin [Git](https://github.com/denolehov/obsidian-git).
 
 There is this more [detailed guide on how to sync using Git and GitHub](https://viscouspotential.medium.com/how-to-sync-obsidian-across-all-devices-using-git-automatically-and-for-free-dd3c76e7447b) which includes all relevant steps and works for all common desktop and mobile devices.
 
