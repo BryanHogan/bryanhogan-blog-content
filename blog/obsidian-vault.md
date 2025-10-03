@@ -11,7 +11,7 @@ threadsRef: https://www.threads.com/@bryanhoganme/post/DPVrHV9D34c
 
 I've been using Obsidian for many years now and I enjoy it a lot, for me it's very helpful. Obsidian can be highly customized, and that's great. Important for me is that my Obsidian vault supports me in doing other work, and I've found a system that works well. So what does it look like?
 
-My whole [vault template is available on GitHub](https://github.com/BryanHogan/obsidian-vault-template).
+My whole [vault template is available on GitHub](https://github.com/BryanHogan/obsidian-vault-template). (Currently some elements mentioned here are still missing, work in progress)
 
 ## What I use my Obsidian vault for
 
