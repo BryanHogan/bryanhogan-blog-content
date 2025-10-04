@@ -141,7 +141,7 @@ Then I found using a separate GitHub repository as a submodule for Astro to be a
 
 ### Syncing my vault across desktop and mobile
 
-Obsidian works on both desktop and mobile. Since Obsidian is actually just a collection of markdown files, file sync or cloud service can be used. I back-up my vault from time to time to a personal GitHub repository. For synching I use Google Drive, this includes the Google Drive Desktop program I use on Windows, and the DriveSync app on Android.
+Obsidian works on both desktop and mobile. Since Obsidian is actually just a collection of markdown files any file sync or cloud service can be used. I back-up my vault from time to time to a personal GitHub repository. For synching I use Google Drive, this includes the Google Drive Desktop program I use on Windows, and the DriveSync app on Android.
 
 I wrote a more [detailed comparison of different ways to sync Obsidian and the setup I use here](/blog/how-to-sync-obsidian). 
 
@@ -149,7 +149,7 @@ I wrote a more [detailed comparison of different ways to sync Obsidian and the s
 
 There's many note-taking applications out there, but for me Obsidian is definitely one of the best. But it's not the only one I use, as different programs have different use-cases. I have a more detailed comparison of [Obsidian vs Notion here](/blog/notion-obsidian-comparison).
 
-I also not only use Obsidian, I use Notion for and Logseq as well. Notion for content that is collaborative or that can use the better Database function there, e.g. the Kanban in Notion is great. Logseq for short daily notes, as having a separate program for quick notes feels better and daily entries in Logseq are shown in an infinite scroll-able vertical view, which makes it easier to find past entries.
+So I not only use Obsidian, I use Notion and Logseq as well. Notion for content that is collaborative or that can use the better Database function there, e.g. the Kanban in Notion is great. Logseq for short daily notes, as having a separate program for quick notes feels better and daily entries in Logseq are shown in an infinite scroll-able vertical view, which makes it easier to find past entries.
 
 Other note-taking applications that might interest you:
 
