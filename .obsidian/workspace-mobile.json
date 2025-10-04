@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/dangers-of-ai.md",
+                "file": "drafts/new-chapter-nomadic-life.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "dangers-of-ai"
+              "title": "new-chapter-nomadic-life"
             }
           }
         ]
@@ -156,6 +156,8 @@
   },
   "active": "cec99bc7b844a1ec",
   "lastOpenFiles": [
+    "blog/dangers-of-ai.md",
+    "(conflict 2025-09-19-10-52-51).gitignore",
     "blog/south-korea-travel-guide.md",
     "blog/new-chapter-nomadic-life.md",
     "blog/astro-obsidian.md"
