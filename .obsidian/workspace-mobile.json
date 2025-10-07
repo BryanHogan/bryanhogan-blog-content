@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/new-chapter-nomadic-life.md",
-                "mode": "source",
+                "file": "blog/obsidian-vault.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "new-chapter-nomadic-life"
+              "title": "obsidian-vault"
             }
           }
         ]
@@ -156,8 +156,12 @@
   },
   "active": "cec99bc7b844a1ec",
   "lastOpenFiles": [
-    "blog/dangers-of-ai.md",
+    "drafts/new-chapter-nomadic-life.md",
     "(conflict 2025-09-19-10-52-51).gitignore",
+    "blog/obsidian-vault.md",
+    "blog-assets/images/Obsidian-Vault-Folders.png",
+    "blog-assets/covers/Obsidian-Vault-Cover.svg",
+    "blog/dangers-of-ai.md",
     "blog/south-korea-travel-guide.md",
     "blog/new-chapter-nomadic-life.md",
     "blog/astro-obsidian.md"
