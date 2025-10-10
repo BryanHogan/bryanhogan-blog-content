@@ -57,3 +57,5 @@ Other sites talking about these problems of AI:
 - <a href="https://bradt.ca/blog/no-clicks-no-content/" target="_blank">No Clicks, No Content: The Unsustainable Future of AI Search</a> by Brad Touesnard
 - <a href="https://fortune.com/2025/09/19/cloudflare-matthew-prince-black-mirror-outcome-ai-controls-media/" target="_blank">Cloudflare CEO warns of a ‘Black Mirror’ outcome if Sam Altman or other AI people control the media</a> by Nick Lichtenberg
 - <a href="https://www.noemamag.com/the-last-days-of-social-media/" target="_blank">The Last Days Of Social Media</a> by James O'Sullivan
+- <a href="https://youtu.be/vWidan8ggGo?t=4435">Timestamped link to a part of a podcast between two game creators on AI</a>
+- <a href="https://youtu.be/72VDT-wdWlc?t=710">AI is ruining the web</a> by Kevin Powell
