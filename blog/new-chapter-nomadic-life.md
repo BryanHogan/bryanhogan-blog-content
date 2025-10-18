@@ -2,11 +2,12 @@
 title: Leaving Germany with 4000€ and no return
 description: Starting a new chapter of my life, beginning with my 4000€ and a one-way flight to South Korea.
 emoji: ✈️
-pubDate: 2025-06-11T05:47:54Z
+pubDate: 2025-10-18T16:35:50+00:00
 tags:
   - travel
   - personal
 ---
+
 I've started a new chapter of my life. With around 4000€ in my bank account, no job and no income I got a one-way ticket to South Korea.
 
 Although I have greatly enjoyed my time in Korea I won't be in Korea for too long, I want to see some other places before I start living in Korea for a longer period. Also, getting a visa for Korea is hard, and I didn't want to use the Korean Working Holiday visa yet.
