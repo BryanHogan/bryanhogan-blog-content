@@ -45,4 +45,4 @@ I might also run out of money. I might not be able to finance my journey. The am
 
 Another reason might be my health, I'm currently limited in what I can eat and drink, but for now it is manageable.
 
-As part of this journey I aSlso want to be more active on social media. Putting my criticism aside, it's a great way to connect to new people, stay in contact, find new opportunities, and for building a business. So I posted my first [reel](https://www.instagram.com/reel/DKTpKj6yKqy/).
+As part of this journey I also want to be more active on social media. Putting my criticism aside, it's a great way to connect to new people, stay in contact, find new opportunities, and for building a business. So I posted my first [reel](https://www.instagram.com/reel/DKTpKj6yKqy/).
