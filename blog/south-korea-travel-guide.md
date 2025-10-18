@@ -43,8 +43,8 @@ There are [7 officially declared tourist zones](https://english.visitseoul.net/l
 The areas I mostly recommend are:
 1. Hongdae
 2. Yeonnam
-3. Jong-ro
-4. City Hall Station
+3. Jong-ro (especially [Ikseon](https://naver.me/G8sobief))
+4. City Hall Station (the area around it)
 5. Seongsu
 
 You also (probably) can't go wrong with getting an accommodation in any of these areas, but more on that later below.
@@ -79,7 +79,7 @@ If I had to recommend 3 singular things for any tourist visiting Korea I'd say:
 
 The view of the 2024 New Year's sunrise near the Namsan Seoul Tower.
 
-If you visit Seoul on a very rainy day and want to stay indoors I can recommend the [iPark Mall in Yongsan](https://naver.me/GUwSuJc5), the [Starfield Mall in Gangnam](https://naver.me/xprAqNM7) or the [Starfield mall in Suwon](https://naver.me/xWTnpnqm). *I mention more activities further down.*
+If you visit Seoul on a very rainy day and want to stay indoors I can recommend the [iPark Mall in Yongsan](https://naver.me/GUwSuJc5), the [Starfield Mall in Gangnam](https://naver.me/xprAqNM7) or the [Starfield mall in Suwon](https://naver.me/xWTnpnqm). The [Hyundai Department Store](https://naver.me/GxRYsMsl) in Yeouido is also fun, skip the lower and middle floors and go to the higher ones directly. Next to it is also the [IFC Mall](https://naver.me/FfWOinGc). My personal less crowded favorite for just shopping is the mall on top of the [Traders Wholesale Club](https://naver.me/I55v7tyG) near Magok station. *I mention more activities further down.*
 
 ## Where to stay
 Should you stay in a hotel, hostel, AirBnB or Goshiwon?

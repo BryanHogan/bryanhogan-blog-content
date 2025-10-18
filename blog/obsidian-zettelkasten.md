@@ -146,3 +146,9 @@ When your Zettelkasten is still small you won't really need MoCs, but they will 
 
 This is all when it comes to creating a basic Zettelkasten.  
 Obsidian offers a lot more options. It has many community built plug-ins, options for styling and layout, and much more. But that also makes it easy to get distracted. Especially in the beginning, focus on what matters and don't overplan.
+
+---
+
+Once you feel ready, after you experimented enough with your Zettelkasten implementation, I recommend some further posts:
+- [A complete tour of how my Obsidian vault works](/blog/obsidian-vault)
+- [Comparison between Notion and Obsidian](/blog/notion-obsidian-comparison)
