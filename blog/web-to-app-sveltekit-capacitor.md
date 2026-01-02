@@ -1,5 +1,5 @@
 ---
-title: "From Web to Native: Building Mobile Apps with SvelteKit & Capacitor"
+title: "From Web to Native: Building Apps with SvelteKit & Capacitor"
 description: A step-by-step tutorial on integrating CapacitorJS with SvelteKit. Convert your website into an Android/iOS app and live reloading.
 coverImage: ../blog-assets/covers/Web-To-App-SvelteKit-Capacitor-Cover.svg
 pubDate: 2026-01-02T12:27:14+00:00
