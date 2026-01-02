@@ -77,7 +77,7 @@ Now the step I struggled the most with, at least when using DigitalOcean. Using 
 
 Since submodule might not automatically be included when we do a pull of this repository we have to specifically state that we do want to include the submodule.
 
-Also, when you clone your repository again in the feature, e.g. you get a new laptop or pc, include a `--recurse-submodules` with the clone, or if you forgot to do so after doing the usual `git clone ssh-link` do `git submodule update --init --recursive`.
+Also, when you clone your repository again in the feature, e.g. you get a new laptop or pc, include a `--recurse-submodules` with the clone, or if you forgot to do so after doing the usual `git clone ssh-link` do `git submodule update --init --recursive`. Then we also want to point the submodule to the correct branch, do so with `git submodule foreach --recursive "git checkout main"` (this example uses the main branch).
 
 #### Cloudflare
 
