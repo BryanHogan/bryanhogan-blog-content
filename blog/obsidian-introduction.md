@@ -45,6 +45,8 @@ I avoid custom themes. I try to use as few plugins as possible. Obsidian has "co
 
 I value a simple long-lasting system. So I use a system inspired from Zettelkasten and Evergreen notes, bottom-up instead of top-down. I wrote in detail about [my full Obsidian vault setup](https://bryanhogan.com/blog/obsidian-vault).
 
+Keep in mind, you don't need any of this though. You can just create folders and put your notes in there, if you already have a system that works for you, do that.
+
 ## More about Obsidian
 
 ### Syncing & Back-ups
