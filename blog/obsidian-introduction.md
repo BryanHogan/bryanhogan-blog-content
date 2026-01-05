@@ -12,7 +12,7 @@ tags:
 
 ## Why Obsidian?
 
-Obsidian allows you to work on local markdown files. This is great for a variety of reasons. Markdown is an open format, you can use it in a variety of other apps. Your Obsidian vault is just a group of notes and folders. And since everything you do is saved locally on your device also, you own your files, you can decide what to do with them. You are protected from enshittification.
+Obsidian allows you to work on local markdown files. This is great for a variety of reasons. [Markdown](https://help.obsidian.md/syntax) is an open format, you can use it in a variety of other apps. Your Obsidian vault is just a group of notes and folders. And since everything you do is saved locally on your device also, you own your files, you can decide what to do with them. You are protected from enshittification.
 
 Obsidian is powerful. It works great for writing content, for creating content that is interlinked with other things you are working on, e.g. you can create links to notes using `[[ ]]`.
 
