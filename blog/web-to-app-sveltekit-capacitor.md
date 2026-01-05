@@ -30,7 +30,7 @@ We will do the following:
 
 First we want to add things relevant to the website, in this case SvelteKit.
 
-Use the command `npx sv create my-app`.
+Use the command `npx sv create my-app` to create a SvelteKit project.
 
 Choose whatever options you want, but take `pnpm`, not `npm`, the last few times I ran into problems with it.
 
@@ -42,19 +42,21 @@ Then `npx cap init`.
 
 ### 3. Step: Changing to static
 
-Now make the output static. For this first add the SvelteKit static adapter with `pnpm add -D @sveltejs/adapter-static`. 
+Now make the output static. First add the SvelteKit static adapter with `pnpm add -D @sveltejs/adapter-static`. 
 
-Add the file `src/routes/+layout.js` that has the following one line:
+Then add the file `src/routes/+layout.js` that has the following one line:
 
 ```JavaScript
 export const prerender = true;
 ```
 
-Change the `capacitor.config.json` file to be output at `build`. So change the value of it to build like so: `"webDir": "build",`.
+This ensures every route is pre-generated as HTML.
+
+In `capacitor.config.json`, set the output directory to: `"webDir": "build",`. This tells Capacitor where to find your bundled assets.
 
 Your files might look slightly different if your are using TypeScript, the underlying step stays the same even if the syntax and file ending looks slightly different.
 
-Then change your `svelte.config.js` file to:
+Update `svelte.config.js` to use the static adapter. We set the output to `build` so Capacitor can find the files:
 
 ```
 import adapter from '@sveltejs/adapter-static';
@@ -76,13 +78,13 @@ const config = {
 export default config;
 ```
 
-Now `pnpm run dev` will already work and you can look at your website at `localhost:5173`. 
+Now `pnpm run dev` will already work, so use it to start the dev server and you can look at your website at `localhost:5173`. 
 
 ### 4. Step: Adding mobile platforms
 
 Now we are very close to being able to run our web app on a mobile device.
 
-Adding Android:
+Add the Android platform:
 
 ```
 pnpm install @capacitor/android
@@ -91,7 +93,9 @@ pnpm run build
 npx cap sync
 ```
 
- Next step is to install [Android Studio](https://developer.android.com/studio) and setup an emulator for this to work.
+The `sync` command copies your built web assets to the native Android project.
+
+Next step is to install [Android Studio](https://developer.android.com/studio) and setup an emulator for this to work.
 
 Now to open the project's Android version with an Android emulator do `npx cap open android`. 
 
@@ -107,7 +111,8 @@ Currently any changes require a rebuild to show up in the Android emulator, but 
 
 For that we need to adjust the `vite.config.js` and `capacitor.config.json`.
 
-To vite.config.js add this:
+Update vite.config.js:
+
 ```
 server: {
     host: '0.0.0.0',
@@ -115,7 +120,8 @@ server: {
 }
 ```
 
-To capacitor.config.json add this:
+Update capacitor.config.json:
+
 ```
 server: {
     url: 'http://10.0.2.2:5173',
