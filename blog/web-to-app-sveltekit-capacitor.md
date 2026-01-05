@@ -6,6 +6,9 @@ pubDate: 2026-01-02T12:27:14+00:00
 tags:
   - development
   - creating
+mastodonRef: https://mastodon.social/@BryanHogan/115825701681823228
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3mbgybc2oqk26
+threadsRef: https://www.threads.com/@bryanhoganme/post/DTAn1O2D2ZJ
 ---
 
 You can build a website and turn it into an app with CapacitorJS.
