@@ -6,6 +6,9 @@ pubDate: 2026-01-05T14:01:16+00:00
 tags:
   - obsidian
   - productivity
+mastodonRef: https://mastodon.social/@BryanHogan/115842959067754152
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3mbonj3gcjc2k
+threadsRef: https://www.threads.com/@bryanhoganme/post/DTIeGeujz3B
 ---
 
 [Obsidian](https://obsidian.md/) is a great note-taking program. I highly recommend it to anyone who wants to take notes and do other knowledge-work for themselves.
