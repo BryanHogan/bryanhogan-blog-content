@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 
-I have been publishing a monthly update for more than 2 years now. One section of my update includes cool things I came across on the internet, so I wanted to put together all the cool blog posts and similar I came across until now.
+I have been [publishing a monthly update](/follow) for more than 2 years now. One section of my update includes cool things I came across on the internet, so I wanted to put together all the cool blog posts and similar I came across until now.
 
 I have filtered out a few posts that were about things that are not that relevant anymore, which was less than a handful though. Some posts are technically not blog posts, but I still think they fit. Links are sorted into groups, sorted by how recently I have shared them.
 
