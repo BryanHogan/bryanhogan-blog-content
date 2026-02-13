@@ -5,6 +5,9 @@ emoji: 📚
 pubDate: 2026-02-12T15:42:57+00:00
 tags:
   - blog
+mastodonRef: https://mastodon.social/@BryanHogan/116063618185070994
+blueskyRef: https://bsky.app/profile/bryanhogan.com/post/3meqnatmomk2o
+threadsRef: https://www.threads.com/@bryanhoganme/post/DUs0GfSj2Qy
 ---
 
 I have been [publishing a monthly update](/follow) for more than 2 years now. One section of my update includes cool things I came across on the internet, so I wanted to put together all the cool blog posts and similar I came across until now.
