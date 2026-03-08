@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/south-korea-travel-guide.md",
+                "file": "blog/obsidian-introduction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "south-korea-travel-guide"
+              "title": "obsidian-introduction"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "blog/astro-obsidian.md",
+            "file": "blog/obsidian-introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +156,9 @@
   },
   "active": "cec99bc7b844a1ec",
   "lastOpenFiles": [
+    "drafts/template-image.md",
+    "drafts/template-image-line.md",
+    "blog/south-korea-travel-guide.md",
     "blog/obsidian-zettelkasten.md",
     "blog/obsidian-vault.md",
     "drafts/new-chapter-nomadic-life.md",
@@ -163,7 +166,6 @@
     "blog-assets/images/Obsidian-Vault-Folders.png",
     "blog-assets/covers/Obsidian-Vault-Cover.svg",
     "blog/dangers-of-ai.md",
-    "blog/south-korea-travel-guide.md",
     "blog/new-chapter-nomadic-life.md",
     "blog/astro-obsidian.md"
   ]

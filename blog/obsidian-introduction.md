@@ -28,7 +28,7 @@ The desktop app of Obsidian works great, just like the mobile app, and there's n
 
 ## Rules to keep in mind
 
-When you look up content about Obsidian, it gets complicated. It's fine to explore what is possible with such a program, what system and use-cases people have for it, but set a limit. Explore, and then critically think about what you really need. Don't fall for FOMO or feel anxious.
+When you look up content about Obsidian, it gets complicated. It's fine to explore what is possible with such a program, what system and use-cases people have for it, but set a limit. Explore, and then critically think about what you really need. Don't fall for FOMO marketing or feel anxious.
 
 Keep it simple. Obsidian should help you work on other things.
 
@@ -43,7 +43,7 @@ I use Obsidian for:
 
 I avoid custom themes. I try to use as few plugins as possible. Obsidian has "core plugins", features which are already built into Obsidian by the Obsidian team, and "community plugins", plugins made by the community.
 
-I value a simple long-lasting system. So I use a system inspired from Zettelkasten and Evergreen notes, bottom-up instead of top-down. I wrote in detail about [my full Obsidian vault setup](https://bryanhogan.com/blog/obsidian-vault).
+I value a simple long-lasting system. So I use a system inspired from Zettelkasten and Evergreen notes, bottom-up instead of top-down. I wrote in more detail about [my full Obsidian vault setup here](https://bryanhogan.com/blog/obsidian-vault) and go into detail [on how to implement the bottom-up approach for note-taking here](/blog/obsidian-zettelkasten).
 
 Keep in mind, you don't need any of this though. You can just create folders and put your notes in there, if you already have a system that works for you, do that.
 
