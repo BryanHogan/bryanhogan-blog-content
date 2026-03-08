@@ -1,6 +1,6 @@
 ---
 title: Dangers of AI
-description: Risks of AI - Misinformation, power concentration, skill loss. The shift towards a bot-filled internet.
+description: 'Risks of AI - Misinformation, power concentration, skill loss. The shift towards a bot-filled internet.'
 emoji: ⚠️
 pubDate: 2025-08-20T04:20:58+00:00
 tags: [AI]
@@ -59,3 +59,7 @@ Other sites talking about these problems of AI:
 - <a href="https://www.noemamag.com/the-last-days-of-social-media/" target="_blank">The Last Days Of Social Media</a> by James O'Sullivan
 - <a href="https://youtu.be/vWidan8ggGo?t=4435">Timestamped link to a part of a podcast between two game creators on AI</a>
 - <a href="https://youtu.be/72VDT-wdWlc?t=710">AI is ruining the web</a> by Kevin Powell
+
+---
+
+![Image](./6f2de5b917b0c90127
