@@ -13,6 +13,8 @@ I've been using Obsidian for many years now and I enjoy it a lot, for me it's ve
 
 My whole [vault template is available on GitHub](https://github.com/BryanHogan/obsidian-vault-template). (Currently some elements mentioned here are still missing, work in progress)
 
+> I significantly changed this setup in 2026 and updated this post to reflect my current system.
+
 ## What I use my Obsidian vault for
 
 I use my Obsidian Vault for a lot of things: 
@@ -37,17 +39,17 @@ I try to avoid unnecessary modifications and prefer a simple long-lasting system
 
 ## Vault structure
 
-1. Note Box - Contains my knowledge notes, my thoughts and learnings, as well as notes for projects I'm working on.
-2. Collections *(Contains: Books, Clippings, Games)* - First folder that uses sub-folders, each sub-folder contains notes belonging to the specific area.
-3. Tasks & Reminders - Things to do and get done for this month.
-4. Temporary - Notes which are needed only for a very-short period of time.
-5. Meta *(Contains: Archive, Attachments, Bases, Templates)* - Things that didn't get a home yet, such as template notes or file attachments, e.g. audio and image files. - Also uses sub-folders, `/archive` includes retired notes. `/attachments` is for media included in notes such as pictures, videos and audio. `/bases` for the `.bases` files of Obsidian which are then used in notes. `/templates` for the template files used to prefill different kind of notes.
+1. **Note Box** - Contains my knowledge notes, my thoughts and learnings, as well as notes for projects I'm working on.
+2. **Collections** *(Contains: Books, Clippings, Games)* - First folder that uses sub-folders, each sub-folder contains notes belonging to the specific area.
+3. **Tasks & Reminders** - Things to do and get done for this month.
+4. **Temporary** - Notes which are needed only for a very-short period of time.
+5. **Meta** *(Contains: Archive, Attachments, Bases, Templates)* - Also uses sub-folders. `/archive` includes retired notes. `/attachments` is for media included in notes such as pictures, videos and audio. `/bases` for the `.bases` files of Obsidian which are then used in notes. `/templates` for the template files used to prefill different kind of notes.
 
 ![Obsidian vault folders](../blog-assets/images/Obsidian-Vault-Folders.png)
 
-I prefer this approach of 1) notes from my thinking / knowledge work 2) collections of media and other external content 3) what I want to get done for the month over PARA or other structures. (*In the following the folder I drop the numbering when mentioning the folder, `/Note Box` and `01 - Note Box` is the same*.)
+I prefer this approach of 1) notes from my thinking / knowledge work 2) collections of media and other external content 3) what I want to get done for the month over PARA or other structures. (*In the following sections I sometimes drop the numbering when mentioning a folder, `/Note Box` and `/01 - Note Box` is the same*.)
 
-## Note Box: Smart notes - Bottom-up note-taking
+## Note Box: Smart notes & bottom-up note-taking
 
 The `/Note Box` folder is the most important folder of my Vault.
 
@@ -60,8 +62,12 @@ Notes reference other notes via linking, so via `[[ ]]`. I use a pre-set templat
 
 By doing this I will find that some notes belong together, as they reference the same topic. I then create a `MoC` (Map of Content) note which provides an overview of notes linking to it. With this approach groups and structure form naturally, as notes can belong to multiple different groups. For knowledge notes this is great, as topics form naturally.
 
+Project notes show up in the project overviews (using Bases) when they are of type `Project`. MoC files specifically for projects include a link to `[[Projects]]`, making them show up in the overview there.
+
+![Obsidian vault projects overview structure](../blog-assets/images/Obsidian-Vault-Projects-Overview-Structure.png)
+
 If you are new to taking "smart notes" / "evergreen notes" / "Zettelkasten notes" / bottom-up notes I recommend my post going 
-into [further details on these](/blog/obsidian-zettelkasten).
+into [further details on taking smart notes](/blog/obsidian-zettelkasten).
 
 ## Collections: Books, games and more
 
@@ -147,6 +153,24 @@ Other note-taking applications that might interest you:
 - [Affine](https://affine.pro/) - Self-hostable note-taking tool, similar style to Notion, introduces whiteboard views.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - Self-hostable note-taking tool, similar to Notion.
 - [Logseq](https://logseq.com/) - Open-source note-taking tool, markdown-based but makes everything into lists, overall lower quality than Obsidian.
+
+## Recent changes - Version: 2.0
+
+The vault you see described in this post is my most recent version. It's simpler and makes heavier use of the `Bases` feature.
+
+What changed?
+
+I moved `Zettel` and `Project` notes into one combined folder. I also moved blog posts, video scripts and location notes into this combined folder. That combined folder is now called `Note Box`.
+
+The properties have also been updated, using overall less and more of them are shared between different note types. All templates have been updated accordingly.
+
+The Dataview plugin has been removed and `Obsidian Bases` are used more throughout the whole vault for creating structure.
+
+Periodic Notes is a new plugin, using it for keeping a monthly note of things to do.
+
+All of these changes help to make this vault setup more pleasant to use, reducing decision fatigue and just further helping you get more work done outside of your vault.
+
+---
 
 <details><summary>Further Links 💡</summary>
 
