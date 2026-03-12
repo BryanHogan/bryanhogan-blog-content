@@ -37,18 +37,6 @@ I try to avoid unnecessary modifications and prefer a simple long-lasting system
 
 ## Vault structure
 
-I use the following vault structure, each name here is a folder:
-
-0. Bases - Contains Bases files, more on these later below.
-1. Zettelkasten - Contains my knowledge notes, in a bottom-up approach, more on that later below.
-2. Projects - Contains notes relating to projects and similar things. Also using a bottom-up approach here.
-3. Collections *(Contains: Blog, Books, Clippings, Games, Videos)* - First folder that uses sub-folders, each sub-folder contains notes belonging to a specific area.
-4. Bryan's Briefing *(Contains: Posted Archive)* - Writing my monthly newsletter here. Moving notes into the archive folder once they have been posted.
-5. Temp Notes - Notes that are temporary, thus only exist for a very-short period of time.
-6. Miscellaneous *(Contains: Archive, Attachments, Templates, Someday Notes)* - Things that didn't get a home yet, such as template notes and file attachments, e.g. audio and image files.
-
-aaaaaaaaa
-
 1. Note Box - Contains my knowledge notes, my thoughts and learnings, as well as notes for projects I'm working on.
 2. Collections *(Contains: Books, Clippings, Games)* - First folder that uses sub-folders, each sub-folder contains notes belonging to the specific area.
 3. Tasks & Reminders - Things to do and get done for this month.
@@ -59,62 +47,56 @@ aaaaaaaaa
 
 I prefer this approach of 1) notes from my thinking / knowledge work 2) collections of media and other external content 3) what I want to get done for the month over PARA or other structures. (*In the following the folder I drop the numbering when mentioning the folder, `/Note Box` and `01 - Note Box` is the same*.)
 
-## Smart notes: Bottom-up note-taking
+## Note Box: Smart notes - Bottom-up note-taking
 
-My Zettelkasten and Projects folder are the two most important folders of my Vault.
+The `/Note Box` folder is the most important folder of my Vault.
 
-- Knowledge notes go into `/Zettelkasten`.
-- Notes which are less long-term, e.g. they belong to a project or problem that can end, belong into `/Projects` .
+It contains:
 
-Notes in both of these folders use the same bottom-up approach.
+- Long-lasting knowledge notes - These notes are of type `Zettel`, they should explain one concept (atomic) and link to relating concepts.
+- Notes which are less long-term, these are of type `Project` - These usually belong to a project or problem that can end.
 
-Notes reference other notes via linking, so via `[[ ]]`. I use a pre-set template of properties depending on which folder the note goes to. Both Zettelkasten and Projects notes usually refer to a topic of which they belong to, e.g. `[[Korean]]` for notes about the Korean language.
+Notes reference other notes via linking, so via `[[ ]]`. I use a pre-set template of properties depending on the type of note. For `Zettel` notes I add links to files that might not exist yet, e.g. `[[Korean]]`. Project notes link to the project they belong to.
 
-By doing this I will find that some notes belong together, as they reference the same topic. These notes I then make into a `Map of Content`. With this approach groups and structure forms naturally, as notes can belong to multiple different groups.
+By doing this I will find that some notes belong together, as they reference the same topic. I then create a `MoC` (Map of Content) note which provides an overview of notes linking to it. With this approach groups and structure form naturally, as notes can belong to multiple different groups. For knowledge notes this is great, as topics form naturally.
 
 If you are new to taking "smart notes" / "evergreen notes" / "Zettelkasten notes" / bottom-up notes I recommend my post going 
 into [further details on these](/blog/obsidian-zettelkasten).
 
 ## Collections: Books, games and more
 
-Knowledge goes into `/Zettelkasten`, less long-term project specific notes go into `/Projects`, but what about blog posts, games, books?
+Knowledge and project related notes go into `/Note Box,` but what about games and books?
 
 ### Books
 
 Each book that I want to read, am reading, have read or stopped reading is stored as a note in `/Collections/Books`. With Bases I can easily create overviews of these book entries and sort & filter them. These overviews are included and linked to from the folder note that opens up when I click the book folder.
 
-Each book note includes a chapter overview, plus a quick summary, notes on who it's worth reading for and how it has helped me. Although I'm not consistently adding this information, which is okay since this is just for me. Knowledge from books is added to `/Zettelkasten`.
+Each book note includes a chapter overview, plus a quick summary, notes on who it's worth reading for and how it has helped me. Although I'm not consistently adding this information, which is okay since this is just for me. Knowledge from books is added to `/Note Box`.
 
 Sometimes I want to link to a specific Zettel note from the chapter overview of a book, so knowing the link name can be different from the note it is linking to is very helpful here, e.g. `[[actual note name|name thats shown]]`.
 
-### Games and Videos
+### Games
 
 This `/Collection/Games` folder is very similar to the one for books, but instead for video games.
 
-The one for `/Collection/Videos` is more of a summary of useful YouTube videos I watched. Writing a summary, and then creating atomic notes from these for my `/Zettelkasten`.
-
 ### Clippings
 
-Using the [Obsidian Web Clipper](https://obsidian.md/clipper) I sometimes add content from the internet to my vault. I usually do this when I want to reference it later on, or use it as a base to create some Zettel from it. By adding it to the vault I can be sure that it will be there when I need it again in the future, remember that websites might be taken offline at any time.
+Using the [Obsidian Web Clipper](https://obsidian.md/clipper) I sometimes add content from the internet to my vault. I usually do this when I want to reference it later on, or use it as a base to create some Zettel from it. By adding it to the vault I can be sure that it will be there when I need it again in the future, remember that websites might be taken offline or changed at any time.
 
 ## Templates I use
 
 Templates allow me to pre-fill notes with relevant properties / frontmatter. Templates are part of core Obsidian, you just need to enable them and also set a hotkey to insert them.
 
-- [Zettel Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/01A%20-%20Zettel.md)
-- [Zettel MOC Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/01B%20-%20Zettel%20MOC.md)
-- [Project Note Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/02A%20-%20Project%20Note.md)
-- [Project MOC Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/02B%20-%20Project%20MOC.md)
-- [Blog Post Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/03A%20-%20Blog%20Post.md)
-- [Book Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/03B%20-%20Book.md)
-- [Game Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/03C%20-%20Game.md)
-- [Video Template](https://github.com/BryanHogan/obsidian-vault-template/blob/master/05%20-%20Miscellaneous/Templates/03D%20-%20Video.md)
+- `/Note Box` uses the following templates: `Zettel`, `Project`, `Blog Post`, `MoC`, `Script`
+- `/Collections/Games` uses the following template: `Game`
+- `/Collections/Books` uses the following template: `Book`
+- `/Tasks & Reminders` uses the following template: `Tasks & Reminders`
 
 ## How to navigate & rediscover information
 
-Obsidian has something called ["Bases"](https://help.obsidian.md/bases). These allow you to display your notes in different table or card views. Bases allow you to filter and sort these views in any way you like.
+Obsidian has something called ["Bases"](https://help.obsidian.md/bases). These allow you to display your notes in different views, e.g. a table, list or card view. Bases allow you to filter and sort these views in any way you like.
 
-I use these Bases in combination with the FolderNotes plugin. This allows me to create overview pages for when I click on my `01 - Zettelkasten` or `02 - Projects` folders. These overview notes include Bases that list all relevant MOC's (Map of Contents), active projects, and then other relevant content that I want to access, ending with a complete list of all notes in that folder.
+I use these Bases in combination with the FolderNotes plugin. This allows me to create overview pages for when I click on my `01 - Note Box` or `02 - Collections` folders. These overview notes include Bases that list all relevant MOC's (Map of Contents), active projects, and then other relevant content that I want to access, ending with a complete list of all notes in that folder.
 
 By creating links within notes, creating MOCs that utilize Bases, and just the general text search in Obsidian I'm confident that relevant information in my vault doesn't get lost, especially since most of my knowledge uses the bottom-up approach described above.
 
@@ -126,17 +108,16 @@ I use the following community plugins:
 
 - [FolderNotes](https://github.com/LostPaul/obsidian-folder-notes) - Make a note belonging to a specific folder, clicking that folder opens the note.
 - [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync) - I don't display the file-name as the heading in Obsidian, turned that off in the settings. Instead I use a `#` at the beginning of each file. This plugin syncs that h1 heading with the file name.
-- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Obsidian Bases has mostly replaced my need for the Dataview plugin, but I still use it for some inline JavaScript needs, e.g. creating a link to today's note (which I do in a separate journaling vault).
-- [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Allows me to quickly add book notes with a relevant cover into my vault.
-- [Home Tab](https://github.com/olrenso/obsidian-home-tab) - Adds a search bar onto empty tabs. Allows me to easily search through my notes, feels nice.
 - [Language Tool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin) - Spelling checker.
-- [Lazy Plugin Loader](https://github.com/alangrainger/obsidian-lazy-plugins) - Allows me to delay some plugins start-up time, improving launch time on Obsidian. Especially useful for mobile.
+- [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - For the monthly Tasks & Reminders note.
+
+As of version 2.0 of my vault I now longer use [Lazy Plugin Loader](https://github.com/alangrainger/obsidian-lazy-plugins), [Home Tab](https://github.com/olrenso/obsidian-home-tab), [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) or [Dataview](https://github.com/blacksmithgu/obsidian-dataview).
 
 ## Styling & themes
 
 The default dark theme of Obsidian works well for me, so I'm using that.
 
-The only CSS snippet I use is one that allows me to make tables `full-width` in notes, so the note itself is kept in readable line length but the table uses the whole available space, useful when working with larger markdown tables.
+I don't use any CSS snippets.
 
 ## More about Obsidian
 
