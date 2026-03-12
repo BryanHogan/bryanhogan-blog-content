@@ -57,6 +57,7 @@ It contains:
 
 - Long-lasting knowledge notes - These notes are of type `Zettel`, they should explain one concept (atomic) and link to relating concepts.
 - Notes which are less long-term, these are of type `Project` - These usually belong to a project or problem that can end.
+- Other note types such as `Blog Posts`, `Scripts` and `Locations`
 
 Notes reference other notes via linking, so via `[[ ]]`. I use a pre-set template of properties depending on the type of note. For `Zettel` notes I add links to files that might not exist yet, e.g. `[[Korean]]`. Project notes link to the project they belong to.
 
