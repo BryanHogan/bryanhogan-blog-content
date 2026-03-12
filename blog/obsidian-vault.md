@@ -30,7 +30,7 @@ Some additional rules:
 - Avoid using multiple Vaults.
 - Minimise folder usage.
 - Avoid non-standard markdown.
-- Pluralize tags.
+- Prefer to pluralize tags and links.
 - Use dates in `YYYY-MM-DD` format.
 
 I try to avoid unnecessary modifications and prefer a simple long-lasting system, so I'm careful about any plugins and CSS snippets I add. I use the basic dark theme of Obsidian.
@@ -47,9 +47,17 @@ I use the following vault structure, each name here is a folder:
 5. Temp Notes - Notes that are temporary, thus only exist for a very-short period of time.
 6. Miscellaneous *(Contains: Archive, Attachments, Templates, Someday Notes)* - Things that didn't get a home yet, such as template notes and file attachments, e.g. audio and image files.
 
+aaaaaaaaa
+
+1. Note Box - Contains my knowledge notes, my thoughts and learnings, as well as notes for projects I'm working on.
+2. Collections *(Contains: Books, Clippings, Games)* - First folder that uses sub-folders, each sub-folder contains notes belonging to the specific area.
+3. Tasks & Reminders - Things to do and get done for this month.
+4. Temporary - Notes which are needed only for a very-short period of time.
+5. Meta *(Contains: Archive, Attachments, Bases, Templates)* - Things that didn't get a home yet, such as template notes or file attachments, e.g. audio and image files. - Also uses sub-folders, `/archive` includes retired notes. `/attachments` is for media included in notes such as pictures, videos and audio. `/bases` for the `.bases` files of Obsidian which are then used in notes. `/templates` for the template files used to prefill different kind of notes.
+
 ![Obsidian vault folders](../blog-assets/images/Obsidian-Vault-Folders.png)
 
-I prefer this approach of 1) permanent knowledge 2) project specific notes 3) collections on something 4) monthly reflections and more over PARA or other structures. (*In the following the folder I drop the numbering when mentioning the folder, `/Zettelkasten` and `01 - Zettelkasten` is the same*.)
+I prefer this approach of 1) notes from my thinking / knowledge work 2) collections of media and other external content 3) what I want to get done for the month over PARA or other structures. (*In the following the folder I drop the numbering when mentioning the folder, `/Note Box` and `01 - Note Box` is the same*.)
 
 ## Smart notes: Bottom-up note-taking
 
@@ -64,7 +72,8 @@ Notes reference other notes via linking, so via `[[ ]]`. I use a pre-set templat
 
 By doing this I will find that some notes belong together, as they reference the same topic. These notes I then make into a `Map of Content`. With this approach groups and structure forms naturally, as notes can belong to multiple different groups.
 
-If you are new to taking "smart notes" / "evergreen notes" / "Zettelkasten notes" / bottom-up notes I recommend my post going into [further details on these](/blog/obsidian-zettelkasten).
+If you are new to taking "smart notes" / "evergreen notes" / "Zettelkasten notes" / bottom-up notes I recommend my post going 
+into [further details on these](/blog/obsidian-zettelkasten).
 
 ## Collections: Books, games and more
 
